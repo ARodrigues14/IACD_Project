@@ -91,7 +91,7 @@ LIMIT 20;
 **Acesso PostgreSQL:**
 ```bash
 kubectl exec -it deployment/postgres -- psql -U postgres -d simulacao_db
-# Password: 19Fevereiro2002
+# Password: ****
 ```
 
 ---
