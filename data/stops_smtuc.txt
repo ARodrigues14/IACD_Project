@@ -1,0 +1,1512 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon,stop_desc
+1,1000,Estação Coimbra B,40.22257,-8.439551,Estação Coimbra B
+2,1001,Quinta do Murtal,40.254709,-8.427882,Quinta do Murtal
+3,1002,Rua Santa Isabel,40.168269,-8.435414,Rua Santa Isabel
+4,1003,Rua da Chainça,40.167161,-8.434506,Rua da Chainça
+8,1007,Santa Eufémia 1,40.199892,-8.496579,Santa Eufémia 1
+9,1008,Santa Eufémia 2,40.197887,-8.49616,Santa Eufémia 2
+10,1009,Santa Eufémia 2,40.198151,-8.496186,Santa Eufémia 2
+11,1010,Santa Eufémia 3,40.19541,-8.496132,Santa Eufémia 3
+12,1011,Santa Eufémia 3,40.19619,-8.496065,Santa Eufémia 3
+13,1012,Taveiro (escola),40.194207,-8.500482,Taveiro (escola)
+14,1013,Ameal (sul),40.187382,-8.547225,Ameal (sul)
+15,1014,Arzila (centro),40.183824,-8.550542,Arzila (centro)
+16,1015,Ameal (sul),40.187485,-8.546976,Ameal (sul)
+17,1016,Rua de Condeixa,40.181723,-8.550062,Rua de Condeixa
+18,1017,Rua de Condeixa,40.182286,-8.549986,Rua de Condeixa
+19,1018,Arzila (norte),40.185307,-8.548925,Arzila (norte)
+20,1019,Arzila (norte),40.185597,-8.548585,Arzila (norte)
+21,1020,Arzila (centro),40.183892,-8.550869,Arzila (centro)
+22,1021,Cruzamento Rua da Lameira,40.179306,-8.545028,Cruzamento Rua da Lameira
+23,1022,Ameal  (norte),40.191808,-8.53784,Ameal  (norte)
+24,1023,Ameal (centro),40.190529,-8.543093,Ameal (centro)
+25,1024,Ameal (centro),40.190626,-8.543202,Ameal (centro)
+26,1025,Ameal  (norte),40.191731,-8.537534,Ameal  (norte)
+27,1026,Ameal,40.189237,-8.54504,Ameal
+28,1027,Ameal,40.189361,-8.544791,Ameal
+29,1028,Vila Pouca,40.195196,-8.527643,Vila Pouca
+30,1029,Vila Pouca,40.190628,-8.522218,Vila Pouca
+31,1030,Vila Pouca,40.195269,-8.527079,Vila Pouca
+32,1031,Arneiros,40.196228,-8.52318,Arneiros
+33,1032,Arneiros,40.196141,-8.523521,Arneiros
+34,1033,Rua Combatentes 1,40.193535,-8.527668,Rua Combatentes 1
+35,1034,Rua Combatentes 1,40.193109,-8.527504,Rua Combatentes 1
+36,1035,Vila Pouca (centro),40.190644,-8.52565,Vila Pouca (centro)
+37,1036,Vila Pouca (centro),40.190632,-8.525904,Vila Pouca (centro)
+38,1037,Vila Pouca (este),40.190048,-8.518857,Vila Pouca (este)
+39,1038,Vila Pouca (este),40.190004,-8.51905,Vila Pouca (este)
+40,1039,Revéles,40.19011,-8.516742,Revéles
+41,1040,Revéles,40.189868,-8.51609,Revéles
+42,1041,Revéles de Baixo,40.199058,-8.517203,Revéles de Baixo
+43,1042,Revéles de Baixo,40.199076,-8.517516,Revéles de Baixo
+44,1043,Mercado Abastecedor,40.189594,-8.510275,Mercado Abastecedor
+45,1044,Revéles (sul),40.186352,-8.511432,Revéles (sul)
+46,1045,Revéles (sul),40.186461,-8.511457,Revéles (sul)
+47,1046,Mercado Abastecedor,40.189322,-8.510698,Mercado Abastecedor
+48,1047,Cruzamento de Alcarraques,40.252379,-8.462594,Cruzamento de Alcarraques
+49,1048,Barreiro,40.281024,-8.485707,Barreiro
+50,1049,Barreiro,40.280863,-8.485405,Barreiro
+51,1050,Taveiro (apeadeiro),40.203574,-8.500166,Taveiro (apeadeiro)
+52,1052,Taveiro (centro),40.202351,-8.502364,Taveiro (centro)
+53,1053,Taveiro (centro),40.202386,-8.502248,Taveiro (centro)
+54,1054,Torres do Mondego (ladeira do Santo),40.194791,-8.381279,Torres do Mondego (ladeira do Santo)
+55,1055,Estrada de Eiras,40.229045,-8.43702,Estrada de Eiras
+56,1056,Estrada de Eiras,40.228579,-8.437223,Estrada de Eiras
+57,1057,Monsenhor Nunes Pereira,40.201175,-8.404265,Monsenhor Nunes Pereira
+58,1058,Taveiro (passagem de Nivel),40.200255,-8.507948,Taveiro (passagem de Nivel)
+59,1059,Taveiro (sul),40.198951,-8.501627,Taveiro (sul)
+60,1060,Taveiro (sul),40.199094,-8.50146,Taveiro (sul)
+61,1061,Taveiro (apeadeiro),40.203703,-8.499783,Taveiro (apeadeiro)
+62,1062,Taveiro (cemitério),40.19975,-8.507331,Taveiro (cemitério)
+63,1063,Taveiro (parque Mondego),40.191521,-8.508291,Taveiro (parque Mondego)
+64,1064,Taveiro (parque Mondego),40.191699,-8.507938,Taveiro (parque Mondego)
+65,1065,Taveiro (escola),40.194007,-8.500687,Taveiro (escola)
+66,1066,Taveiro (rotunda dos Telhões),40.194111,-8.505734,Taveiro (rotunda dos Telhões)
+67,1067,Taveiro (cruzamento para a Escola),40.197057,-8.503688,Taveiro (cruzamento para a Escola)
+68,1068,Taveiro (casa da Criança),40.196597,-8.504513,Taveiro (casa da Criança)
+69,1069,Taveiro (zona Industrial),40.198776,-8.507949,Taveiro (zona Industrial)
+70,1070,Taveiro (parque Mondego),40.191516,-8.50906,Taveiro (parque Mondego)
+71,1071,Taveiro (rotunda dos Telhões),40.194404,-8.50588,Taveiro (rotunda dos Telhões)
+72,1072,Guarda Inglesa,40.204917,-8.435785,Guarda Inglesa
+73,1073,Guarda Inglesa,40.204778,-8.435934,Guarda Inglesa
+74,1074,Vil de Matos (centro),40.283646,-8.486909,Vil de Matos (centro)
+75,1075,Vil de Matos (centro),40.282546,-8.487486,Vil de Matos (centro)
+76,1076,Vil de Matos (norte),40.286748,-8.489514,Vil de Matos (norte)
+77,1077,Vil de Matos,40.285225,-8.487556,Vil de Matos
+78,1078,Vil de Matos,40.285035,-8.487616,Vil de Matos
+79,1079,Mourelos,40.275834,-8.486769,Mourelos
+80,1080,Casais (cemitério),40.203322,-8.485597,Casais (cemitério)
+81,1081,Ribeira de Frades (escola),40.205104,-8.491179,Ribeira de Frades (escola)
+82,1082,Ribeira de Frades (escola),40.205281,-8.491247,Ribeira de Frades (escola)
+83,1083,Ribeira de Frades (centro),40.205624,-8.495183,Ribeira de Frades (centro)
+84,1084,Ribeira de Frades (centro),40.205639,-8.495465,Ribeira de Frades (centro)
+85,1085,Taveiro (centro de Saúde),40.20512,-8.497546,Taveiro (centro de Saúde)
+86,1086,Taveiro (centro de Saúde),40.204747,-8.498269,Taveiro (centro de Saúde)
+87,1087,Alto da Ribeira,40.201674,-8.497199,Alto da Ribeira
+88,1088,Alto da Ribeira,40.201486,-8.496894,Alto da Ribeira
+89,1089,Ribeira de Frades,40.202113,-8.493739,Ribeira de Frades
+90,1090,Ribeira de Frades,40.20181,-8.493287,Ribeira de Frades
+91,1091,Casais do Campo,40.204667,-8.48652,Casais do Campo
+92,1092,Vale Velho,40.241004,-8.404862,Vale Velho
+93,1093,Outeiro da Ribeira 1,40.196468,-8.486497,Outeiro da Ribeira 1
+94,1094,Outeiro da Ribeira 1,40.196808,-8.486717,Outeiro da Ribeira 1
+95,1095,Moinho do Calhau (norte),40.188234,-8.487578,Moinho do Calhau (norte)
+96,1096,Moinho do Calhau (norte),40.187784,-8.487673,Moinho do Calhau (norte)
+97,1097,Moinho do Calhau,40.183788,-8.487018,Moinho do Calhau
+98,1098,Entre Tremoçais,40.178894,-8.487195,Entre Tremoçais
+99,1099,Moinho do Calhau,40.183584,-8.487081,Moinho do Calhau
+100,1100,Entre Tremoçais,40.178711,-8.487259,Entre Tremoçais
+101,1101,Vil de Matos (escola),40.279595,-8.483705,Vil de Matos (escola)
+102,1102,Vil de Matos (escola),40.27979,-8.483946,Vil de Matos (escola)
+103,1103,Rios Frios (eira Velha),40.275241,-8.475301,Rios Frios (eira Velha)
+104,1104,Rios Frios (eira Velha),40.274933,-8.474856,Rios Frios (eira Velha)
+105,1105,Vendas de Santana (viaduto),40.277079,-8.478887,Vendas de Santana (viaduto)
+106,1106,Vendas de Santana (viaduto),40.27686,-8.478665,Vendas de Santana (viaduto)
+107,1107,Vendas de Santana,40.277574,-8.482489,Vendas de Santana
+108,1108,Vendas de Santana,40.277307,-8.482147,Vendas de Santana
+109,1109,Vendas de Santana,40.277189,-8.482428,Vendas de Santana
+110,1110,Corujeira,40.207644,-8.476123,Corujeira
+111,1111,Corujeira,40.207667,-8.476448,Corujeira
+112,1112,Casais (escola),40.205606,-8.482333,Casais (escola)
+113,1113,Casais (centro),40.206459,-8.480519,Casais (centro)
+114,1114,Casais (cemitério),40.203816,-8.485786,Casais (cemitério)
+115,1115,Casais (apeadeiro),40.204609,-8.484984,Casais (apeadeiro)
+116,1116,Casais (escola),40.205312,-8.482719,Casais (escola)
+117,1117,Casais (centro),40.206606,-8.479714,Casais (centro)
+118,1118,Av. de Conimbriga (smtuc),40.210202,-8.437216,Av. de Conimbriga (smtuc)
+119,1119,Outeiro dos Casais (sul),40.199366,-8.486114,Outeiro dos Casais (sul)
+120,1120,Outeiro dos Casais (sul),40.199243,-8.486345,Outeiro dos Casais (sul)
+121,1121,Casas Novas (viaduto),40.203074,-8.478431,Casas Novas (viaduto)
+122,1122,Rua 25 de Abril,40.203135,-8.482168,Rua 25 de Abril
+123,1123,Casas Novas 1,40.201628,-8.477932,Casas Novas 1
+124,1124,Escola Silva Gaio,40.207873,-8.436843,Escola Silva Gaio
+125,1125,Outeiro dos Casais (centro),40.200261,-8.483358,Outeiro dos Casais (centro)
+126,1126,Casas Novas,40.200089,-8.477342,Casas Novas
+127,1127,Urbanização de São Bento,40.199481,-8.484845,Urbanização de São Bento
+128,1128,Estremão (centro),40.199934,-8.478606,Estremão (centro)
+129,1129,Outeiro dos Casais (viaduto),40.200847,-8.485348,Outeiro dos Casais (viaduto)
+130,1130,Rua das Cerejeiras,40.203588,-8.483832,Rua das Cerejeiras
+131,1131,Outeiro dos Casais (viaduto),40.20159,-8.485254,Outeiro dos Casais (viaduto)
+132,1132,Coalhadas,40.198266,-8.476749,Coalhadas
+133,1133,Rua Casal da Bemposta,40.197495,-8.478646,Rua Casal da Bemposta
+134,1134,Casal da Bemposta,40.196071,-8.480997,Casal da Bemposta
+135,1135,Rua Casal dos Ratos,40.197362,-8.482326,Rua Casal dos Ratos
+136,1136,Casal dos Ratos,40.198812,-8.482652,Casal dos Ratos
+137,1137,Valongo (centro),40.174172,-8.481974,Valongo (centro)
+138,1138,Valongo,40.175967,-8.484066,Valongo
+139,1139,Valongo (norte),40.176116,-8.485175,Valongo (norte)
+140,1140,Mendes Silva 1 (valongo),40.176875,-8.478425,Mendes Silva 1 (valongo)
+141,1141,Mendes Silva  1 (valongo),40.176841,-8.478365,Mendes Silva  1 (valongo)
+142,1142,Rios Frios (cartacho),40.271744,-8.467389,Rios Frios (cartacho)
+143,1143,Rios Frios (cartacho),40.271949,-8.468289,Rios Frios (cartacho)
+144,1144,Rios Frios (almuinhas),40.27303,-8.470423,Rios Frios (almuinhas)
+145,1145,Rios Frios (almuinhas),40.273416,-8.4714,Rios Frios (almuinhas)
+146,1146,Alcarraques (norte),40.26516,-8.462245,Alcarraques (norte)
+147,1147,Alcarraques (norte),40.265257,-8.462609,Alcarraques (norte)
+148,1148,Alcarraques (forno),40.254001,-8.462579,Alcarraques (forno)
+149,1149,Alcarraques (forno),40.254217,-8.461905,Alcarraques (forno)
+150,1150,Chafariz (desvio Norte),40.210864,-8.465286,Chafariz (desvio Norte)
+151,1151,Parreiras (centro),40.21343,-8.46575,Parreiras (centro)
+152,1152,Montessão,40.212606,-8.464019,Montessão
+153,1153,Parreiras (rotunda),40.211665,-8.46778,Parreiras (rotunda)
+154,1154,Parreiras,40.211852,-8.466623,Parreiras
+155,1155,Espadaneira,40.210459,-8.470119,Espadaneira
+156,1156,Espadaneira,40.210217,-8.470456,Espadaneira
+157,1157,Pé de Cão,40.20967,-8.471948,Pé de Cão
+158,1158,Pé de Cão,40.209104,-8.472175,Pé de Cão
+159,1159,Chafariz,40.208109,-8.466152,Chafariz
+160,1160,Chafariz,40.208772,-8.465453,Chafariz
+161,1161,Cruzes,40.210376,-8.462726,Cruzes
+162,1162,Cruzes,40.210317,-8.462452,Cruzes
+163,1163,Chafariz (viaduto),40.211142,-8.462743,Chafariz (viaduto)
+164,1164,Chafariz (desvio Sul),40.212024,-8.461976,Chafariz (desvio Sul)
+165,1165,Rua da Escola Nova (sul),40.201403,-8.466039,Rua da Escola Nova (sul)
+166,1166,Fala (cruzamento),40.206204,-8.473919,Fala (cruzamento)
+167,1167,Fala (cruzamento),40.206185,-8.474657,Fala (cruzamento)
+168,1168,Rua 1º Maio,40.206296,-8.467508,Rua 1º Maio
+169,1169,Rua 1º Maio,40.206512,-8.467106,Rua 1º Maio
+170,1170,Fala (escola),40.204738,-8.468477,Fala (escola)
+171,1171,Fala (escola),40.204582,-8.468328,Fala (escola)
+172,1172,Fala (centro),40.202996,-8.469538,Fala (centro)
+173,1173,Fala,40.201495,-8.468087,Fala
+174,1174,Fala,40.202206,-8.46739,Fala
+175,1175,Infante Dom Henrique 1,40.200742,-8.465746,Infante Dom Henrique 1
+176,1176,Infante Dom Henrique 2,40.199805,-8.464416,Infante Dom Henrique 2
+177,1177,Rua da República 2,40.201099,-8.463197,Rua da República 2
+178,1178,Bairro das Flores,40.191195,-8.463373,Bairro das Flores
+179,1179,Espirito Santo das Touregas,40.190679,-8.469078,Espirito Santo das Touregas
+180,1180,Bairro das Flores,40.191222,-8.463686,Bairro das Flores
+181,1181,Infante Dom Henrique 3,40.198308,-8.4631,Infante Dom Henrique 3
+182,1182,Espírito Santo das Touregas (cruzamento),40.185988,-8.469801,Espírito Santo das Touregas (cruzamento)
+183,1183,Espirito Santo das Touregas (centro),40.18913,-8.469307,Espirito Santo das Touregas (centro)
+184,1184,Espirito Santo das Touregas (centro),40.188474,-8.469515,Espirito Santo das Touregas (centro)
+185,1185,Espirito Santo das Touregas (cruzamento),40.186482,-8.470088,Espirito Santo das Touregas (cruzamento)
+186,1186,Espirito Santo das Touregas (cruzamento),40.185508,-8.470552,Espirito Santo das Touregas (cruzamento)
+187,1187,Estrada das Touregas,40.188471,-8.466908,Estrada das Touregas
+188,1188,Estrada das Touregas,40.188777,-8.466631,Estrada das Touregas
+189,1189,Cavaleira,40.1833,-8.471804,Cavaleira
+190,1190,Cavaleira,40.183499,-8.47148,Cavaleira
+191,1191,Adões,40.282077,-8.452098,Adões
+192,1192,Adões (sul),40.281116,-8.453803,Adões (sul)
+193,1193,Adões (sul),40.280723,-8.453968,Adões (sul)
+194,1194,Adões,40.282055,-8.452353,Adões
+195,1195,Adões (norte),40.284776,-8.451165,Adões (norte)
+196,1196,Adões (norte),40.28459,-8.451314,Adões (norte)
+197,1197,Trouxemil (centro),40.27517,-8.453981,Trouxemil (centro)
+198,1198,Trouxemil,40.278284,-8.454265,Trouxemil
+199,1199,Trouxemil (junta),40.273752,-8.452076,Trouxemil (junta)
+200,1200,Trouxemil (cruzamento),40.275288,-8.454707,Trouxemil (cruzamento)
+201,1201,Cruzamento para Rios Frios,40.27266,-8.455819,Cruzamento para Rios Frios
+202,1202,Trouxemil,40.277726,-8.454454,Trouxemil
+203,1203,Cioga do Monte,40.267639,-8.451097,Cioga do Monte
+204,1204,Alcarraques,40.262512,-8.460434,Alcarraques
+205,1205,Alto da Cioga,40.26827,-8.454268,Alto da Cioga
+206,1206,Cioga (centro),40.266734,-8.452237,Cioga (centro)
+207,1207,Alcarraques,40.262323,-8.460488,Alcarraques
+208,1208,Alcarraques (casa da Mestra),40.260985,-8.459994,Alcarraques (casa da Mestra)
+209,1209,Alcarraques (casa da Mestra),40.260546,-8.459198,Alcarraques (casa da Mestra)
+210,1210,Alcarraques (barrios),40.257021,-8.460501,Alcarraques (barrios)
+211,1211,Alcarraques (barrios),40.256355,-8.460837,Alcarraques (barrios)
+212,1212,Alcarraques (celeiro),40.259943,-8.458745,Alcarraques (celeiro)
+213,1213,Alcarraques (celeiro),40.25955,-8.458894,Alcarraques (celeiro)
+214,1214,Adémia (centro de Saúde),40.251253,-8.455232,Adémia (centro de Saúde)
+215,1215,Adémia (centro de Saúde),40.251041,-8.454637,Adémia (centro de Saúde)
+216,1216,Adémia de Baixo,40.250642,-8.451389,Adémia de Baixo
+217,1217,Feira dos 7 e 23,40.219511,-8.459273,Feira dos 7 e 23
+218,1218,São Martinho (cruzamento),40.209743,-8.459153,São Martinho (cruzamento)
+219,1219,Escola Superior Agrária,40.214459,-8.451559,Escola Superior Agrária
+220,1220,Escola Superior Agrária,40.2142,-8.451255,Escola Superior Agrária
+221,1221,Bencanta (apeadeiro),40.214383,-8.45606,Bencanta (apeadeiro)
+222,1222,Bencanta,40.213922,-8.456013,Bencanta
+223,1223,Tojeira Norte,40.256158,-8.416845,Tojeira Norte
+224,1224,Bencanta (junta de Freguesia),40.214453,-8.458994,Bencanta (junta de Freguesia)
+225,1225,Ladeira de São Martinho,40.212394,-8.45649,Ladeira de São Martinho
+226,1226,Ladeira de São Martinho,40.212008,-8.456732,Ladeira de São Martinho
+227,1227,São Martinho,40.210799,-8.457602,São Martinho
+228,1228,São Martinho,40.210807,-8.457016,São Martinho
+229,1229,São Martinho (cruzamento),40.20915,-8.459691,São Martinho (cruzamento)
+230,1230,Rua das Cruzes,40.210186,-8.460462,Rua das Cruzes
+231,1231,Rua das Cruzes,40.210337,-8.46067,Rua das Cruzes
+232,1232,Bencanta (apeadeiro),40.214872,-8.456041,Bencanta (apeadeiro)
+233,1233,Gorgulão,40.215579,-8.453456,Gorgulão
+234,1234,Rua do Freixo,40.216469,-8.451363,Rua do Freixo
+235,1235,Estrada de Vilarinho,40.255052,-8.423527,Estrada de Vilarinho
+236,1236,Bissaya Barreto,40.213197,-8.462065,Bissaya Barreto
+237,1237,Bayer,40.200413,-8.460463,Bayer
+238,1238,Cruzeiro,40.205726,-8.459506,Cruzeiro
+239,1239,Bayer,40.200657,-8.460709,Bayer
+240,1240,São Martinho (ctt),40.202289,-8.459204,São Martinho (ctt)
+241,1241,São Martinho (ctt),40.202761,-8.459162,São Martinho (ctt)
+242,1242,Cruzeiro,40.205558,-8.45911,Cruzeiro
+243,1243,Avenida Nova,40.207079,-8.45993,Avenida Nova
+244,1244,Avenida Nova,40.207512,-8.459961,Avenida Nova
+245,1245,Rua da República 1,40.200852,-8.461639,Rua da República 1
+246,1246,Ladeira dos Alqueves,40.200326,-8.449707,Ladeira dos Alqueves
+247,1247,Rua 5 de Outubro,40.199243,-8.461383,Rua 5 de Outubro
+248,1248,Ribeiro da Póvoa (cruzamento),40.195566,-8.456328,Ribeiro da Póvoa (cruzamento)
+249,1249,Cimo de Fala,40.197093,-8.461804,Cimo de Fala
+250,1250,Rua 5 de Outubro,40.198128,-8.461516,Rua 5 de Outubro
+251,1251,Ribeiro da Póvoa (cruzamento),40.194833,-8.45627,Ribeiro da Póvoa (cruzamento)
+252,1252,Póvoa (centro),40.196316,-8.453849,Póvoa (centro)
+253,1253,Póvoa (centro),40.196367,-8.453703,Póvoa (centro)
+254,1254,Dom Francisco de Lemos,40.184515,-8.415986,Dom Francisco de Lemos
+255,1255,Covões (hospital),40.195877,-8.461407,Covões (hospital)
+256,1256,Covões (hospital),40.195132,-8.460906,Covões (hospital)
+257,1257,Covões (centro de Saúde),40.193856,-8.460659,Covões (centro de Saúde)
+258,1258,Covões (centro de Saúde),40.194083,-8.460526,Covões (centro de Saúde)
+259,1259,Bairro das Flores (cruzamento),40.192055,-8.461292,Bairro das Flores (cruzamento)
+260,1260,Bairro das Flores (cruzamento),40.191833,-8.46119,Bairro das Flores (cruzamento)
+261,1261,Escola Inês de Castro,40.191495,-8.458214,Escola Inês de Castro
+262,1262,Escola Inês de Castro,40.191265,-8.457525,Escola Inês de Castro
+263,1263,Póvoa,40.19547,-8.452139,Póvoa
+264,1264,Caminho das Vinhas 1,40.197273,-8.452086,Caminho das Vinhas 1
+265,1265,Caminho das Vinhas 2,40.198918,-8.452489,Caminho das Vinhas 2
+266,1266,Cruz dos Morouços,40.183183,-8.451272,Cruz dos Morouços
+267,1267,Cruz dos Morouços (centro),40.181266,-8.451912,Cruz dos Morouços (centro)
+268,1268,Cruz dos Morouços,40.182789,-8.450956,Cruz dos Morouços
+269,1269,Sargento Mór (sul),40.287687,-8.44919,Sargento Mór (sul)
+270,1270,Fornos (este),40.267865,-8.44439,Fornos (este)
+271,1271,Fornos (este),40.267383,-8.445186,Fornos (este)
+272,1272,Fornos,40.266775,-8.441742,Fornos
+273,1273,Fornos,40.266892,-8.441201,Fornos
+274,1274,São Romão,40.210084,-8.366306,São Romão
+275,1275,Vilela (cruzamento),40.262025,-8.441328,Vilela (cruzamento)
+276,1276,Vilela (cruzamento),40.261142,-8.441914,Vilela (cruzamento)
+277,1277,Adémia (norte),40.255499,-8.443901,Adémia (norte)
+278,1278,Adémia (norte),40.255198,-8.443997,Adémia (norte)
+279,1279,Estrada Logo de Deus 1,40.253497,-8.440602,Estrada Logo de Deus 1
+280,1280,Estrada Logo de Deus 3,40.25535,-8.438133,Estrada Logo de Deus 3
+281,1281,Estrada Logo de Deus 2,40.254617,-8.439663,Estrada Logo de Deus 2
+282,1282,Estrada Logo de Deus 2,40.25448,-8.439735,Estrada Logo de Deus 2
+283,1283,Urbanização Colina do Sol,40.252699,-8.443371,Urbanização Colina do Sol
+284,1284,Urbanização Colina do Sol,40.253027,-8.443695,Urbanização Colina do Sol
+285,1285,Adémia (centro),40.250962,-8.447141,Adémia (centro)
+286,1286,Adémia (passagem de Nível),40.250336,-8.449963,Adémia (passagem de Nível)
+287,1287,Adémia (cruzamento),40.250968,-8.443884,Adémia (cruzamento)
+289,1289,Adémia (centro),40.25108,-8.446593,Adémia (centro)
+290,1290,Adémia (cruzamento),40.251318,-8.444088,Adémia (cruzamento)
+291,1291,Ponte de Eiras,40.252459,-8.441999,Ponte de Eiras
+294,1294,Bairro Nossa Senhora de Fátima,40.248024,-8.442553,Bairro Nossa Senhora de Fátima
+295,1295,Bairro Nossa Senhora de Fátima,40.247474,-8.442408,Bairro Nossa Senhora de Fátima
+296,1296,Adémia (passagem de Nível),40.25042,-8.449149,Adémia (passagem de Nível)
+297,1297,António Correia de Oliveira,40.252731,-8.441668,António Correia de Oliveira
+299,1299,Pedrulha (centro),40.242549,-8.445723,Pedrulha (centro)
+300,1300,Pedrulha (sul),40.238446,-8.444541,Pedrulha (sul)
+301,1301,Pedrulha (cruzamento),40.241823,-8.4422,Pedrulha (cruzamento)
+302,1302,Pedrulha (sul),40.238803,-8.444227,Pedrulha (sul)
+303,1303,Pedrulha (cruzamento),40.242828,-8.442738,Pedrulha (cruzamento)
+304,1304,Pedrulha (centro de Formação),40.239392,-8.439336,Pedrulha (centro de Formação)
+305,1305,Pedrulha (centro de Formação),40.239635,-8.43937,Pedrulha (centro de Formação)
+306,1306,Pedrulha (cruzamento),40.241946,-8.441962,Pedrulha (cruzamento)
+307,1307,Pedrulha,40.241004,-8.446791,Pedrulha
+308,1308,Pedrulha (escola),40.239411,-8.445443,Pedrulha (escola)
+309,1309,Loreto (passag. Nível),40.235854,-8.44512,Loreto (passag. Nível)
+310,1310,Loreto,40.236657,-8.444924,Loreto
+311,1311,Loreto (cruzamento),40.232815,-8.438802,Loreto (cruzamento)
+312,1312,Loreto (cruzamento),40.232932,-8.439174,Loreto (cruzamento)
+315,1315,Relvinha,40.234852,-8.442335,Relvinha
+316,1316,Relvinha,40.23496,-8.442423,Relvinha
+317,1317,Estação Coimbra B,40.223961,-8.438918,Estação Coimbra B
+319,1319,Estação Coimbra B,40.222661,-8.439338,Estação Coimbra B
+320,1320,Rua António Jardim (4),40.211118,-8.399686,Rua António Jardim (4)
+321,1321,Casa do Sal 2,40.218508,-8.438528,Casa do Sal 2
+322,1322,Casa do Sal,40.217543,-8.43835,Casa do Sal
+323,1323,Guarda Inglesa (rotunda),40.21096,-8.439785,Guarda Inglesa (rotunda)
+324,1324,Forum de Coimbra,40.21278,-8.443501,Forum de Coimbra
+325,1325,Almegue,40.214945,-8.441558,Almegue
+326,1326,Cruzamento Bairro das Fachadas,40.242159,-8.402387,Cruzamento Bairro das Fachadas
+327,1327,Vale Gemil,40.21453,-8.448246,Vale Gemil
+328,1328,Vale Gemil,40.214327,-8.447741,Vale Gemil
+329,1329,Vale Gemil,40.214142,-8.447249,Vale Gemil
+330,1330,Forum de Coimbra,40.212361,-8.445237,Forum de Coimbra
+331,1331,Almas de Freire,40.19927,-8.441086,Almas de Freire
+332,1332,Almas de Freire,40.1993,-8.440897,Almas de Freire
+333,1333,Santa Clara (centro de Saúde),40.202437,-8.443087,Santa Clara (centro de Saúde)
+334,1334,Vale do Rosal 1,40.199179,-8.44771,Vale do Rosal 1
+335,1335,Caminho do Cabeço,40.18589,-8.408038,Caminho do Cabeço
+336,1336,Ruben A.,40.184834,-8.405465,Ruben A.
+337,1337,Rua o Conimbricence 1,40.183396,-8.405269,Rua o Conimbricence 1
+338,1338,Rotunda do Lagar,40.200356,-8.440673,Rotunda do Lagar
+339,1339,Urbanização Santa Isabel,40.200838,-8.440812,Urbanização Santa Isabel
+340,1340,Augusto Matos 2,40.202159,-8.440113,Augusto Matos 2
+341,1341,Augusto Matos 3,40.203914,-8.441466,Augusto Matos 3
+342,1342,Coelho Rocha 1,40.205474,-8.440524,Coelho Rocha 1
+343,1343,Planalto,40.205953,-8.44427,Planalto
+344,1344,Planalto,40.206217,-8.444082,Planalto
+345,1345,Santa Clara (centro de Saúde),40.202644,-8.443593,Santa Clara (centro de Saúde)
+346,1346,Bairro Azul,40.197889,-8.444673,Bairro Azul
+347,1347,Mesura,40.196233,-8.446458,Mesura
+348,1348,Bairro Azul,40.198109,-8.443978,Bairro Azul
+349,1349,Mesura,40.195971,-8.446924,Mesura
+350,1350,Vitorino Planas 1,40.198963,-8.43885,Vitorino Planas 1
+351,1351,Vitorino Planas 1,40.19904,-8.438546,Vitorino Planas 1
+352,1352,Capitão Pereirinha 1,40.195396,-8.439907,Capitão Pereirinha 1
+353,1353,Capitão Pereirinha 1,40.19571,-8.439769,Capitão Pereirinha 1
+354,1354,Barreiros 1,40.19084,-8.439643,Barreiros 1
+355,1355,Barreiros 1,40.190901,-8.439568,Barreiros 1
+356,1356,Alqueves,40.195363,-8.449004,Alqueves
+357,1357,Alqueves,40.195295,-8.448866,Alqueves
+358,1358,Alqueves,40.196069,-8.450182,Alqueves
+359,1359,Vale do Rosal 2,40.197928,-8.445501,Vale do Rosal 2
+360,1360,10 de Junho 1,40.192839,-8.448358,10 de Junho 1
+361,1361,10 de Junho 2,40.194222,-8.449162,10 de Junho 2
+362,1362,Capitão Pereirinha 2,40.192228,-8.440345,Capitão Pereirinha 2
+363,1363,Capitão Pereirinha 2,40.193353,-8.440216,Capitão Pereirinha 2
+364,1364,Vitorino Planas 2,40.19697,-8.439378,Vitorino Planas 2
+365,1365,Vitorino Planas 2,40.197283,-8.439091,Vitorino Planas 2
+366,1366,Alto dos Barreiros 1,40.186371,-8.441446,Alto dos Barreiros 1
+367,1367,Cruz dos Morouços  rotunda,40.181932,-8.448416,Cruz dos Morouços  rotunda
+368,1368,Barreiros 2,40.188724,-8.440818,Barreiros 2
+369,1369,Avelar Brotero,40.20554,-8.408994,Avelar Brotero
+370,1370,Barreiros 2,40.188298,-8.440834,Barreiros 2
+372,1372,Rua de Santa Clara,40.180585,-8.441864,Rua de Santa Clara
+373,1373,Rua de Santa Clara,40.180913,-8.44195,Rua de Santa Clara
+374,1374,Cruz dos Morouços (jardim de Infância),40.183211,-8.445725,Cruz dos Morouços (jardim de Infância)
+375,1375,Cruz dos Morouços (jardim de Infância),40.183207,-8.445129,Cruz dos Morouços (jardim de Infância)
+376,1376,Alto dos Barreiros,40.185408,-8.442058,Alto dos Barreiros
+377,1377,Rua Principal,40.172329,-8.438906,Rua Principal
+378,1378,Rua Principal,40.172449,-8.438849,Rua Principal
+379,1379,Quinta da Machada,40.187438,-8.436092,Quinta da Machada
+380,1380,Algar,40.175316,-8.440742,Algar
+381,1381,Algar,40.175741,-8.440815,Algar
+382,1382,Caminho da Valdeira,40.275444,-8.426818,Caminho da Valdeira
+383,1383,Troviscal,40.271894,-8.431281,Troviscal
+384,1384,Ribeiro de Vilela,40.277136,-8.429047,Ribeiro de Vilela
+385,1385,Vilela (centro),40.268684,-8.42992,Vilela (centro)
+386,1386,Vilela (centro),40.268539,-8.430443,Vilela (centro)
+387,1387,Vilela,40.266793,-8.434431,Vilela
+388,1388,Caselho,40.264653,-8.438763,Caselho
+389,1389,Vilela (junta de Freguesia),40.270814,-8.426885,Vilela (junta de Freguesia)
+390,1390,Vilela (junta de Freguesia),40.270557,-8.427396,Vilela (junta de Freguesia)
+391,1391,Calvário 1,40.265527,-8.430188,Calvário 1
+392,1392,Calvário 2,40.264227,-8.429784,Calvário 2
+393,1393,Logo de Deus (capela),40.265361,-8.427886,Logo de Deus (capela)
+394,1394,Logo de Deus (sul),40.263335,-8.429209,Logo de Deus (sul)
+395,1395,Vilela (escola),40.269878,-8.428583,Vilela (escola)
+396,1396,Vilela (escola),40.269667,-8.429104,Vilela (escola)
+397,1397,Logo de Deus,40.265787,-8.427381,Logo de Deus
+398,1398,Joaquim de Carvalho 1,40.25656,-8.436991,Joaquim de Carvalho 1
+399,1399,Santa Apolónia (centro),40.253928,-8.436256,Santa Apolónia (centro)
+400,1400,Ferreira de Castro 1,40.256352,-8.435095,Ferreira de Castro 1
+401,1401,Santa Apolónia (escola Primária),40.255383,-8.434022,Santa Apolónia (escola Primária)
+402,1402,Santa Apolónia (escola Primária),40.255322,-8.433798,Santa Apolónia (escola Primária)
+403,1403,Santa Apolónia (este),40.25476,-8.429228,Santa Apolónia (este)
+404,1404,Santa Apolónia (este),40.254887,-8.430544,Santa Apolónia (este)
+405,1405,Estrada Logo de Deus 3,40.255391,-8.437875,Estrada Logo de Deus 3
+406,1406,Rua Principal 1,40.261843,-8.432607,Rua Principal 1
+407,1407,Rua Principal 2,40.259956,-8.434967,Rua Principal 2
+408,1408,Rua Principal 3,40.258098,-8.436127,Rua Principal 3
+409,1409,Joaquim de Carvalho 2,40.257018,-8.434727,Joaquim de Carvalho 2
+410,1410,Ferreira de Castro 2,40.255374,-8.436041,Ferreira de Castro 2
+411,1411,Escola Rainha Santa Isabel,40.252104,-8.437666,Escola Rainha Santa Isabel
+412,1412,Santa Apolónia,40.253199,-8.434937,Santa Apolónia
+414,1414,Escola Rainha Santa Isabel,40.252,-8.437468,Escola Rainha Santa Isabel
+415,1415,Pragueira (sul),40.246376,-8.429264,Pragueira (sul)
+416,1416,Pragueira (sul),40.245877,-8.429934,Pragueira (sul)
+417,1417,Monte Romeiras,40.241497,-8.434268,Monte Romeiras
+418,1418,Monte Romeiras,40.241661,-8.434398,Monte Romeiras
+419,1419,Bairro de São Miguel (centro),40.235578,-8.431562,Bairro de São Miguel (centro)
+420,1420,Estrada de Eiras (relvinha),40.237876,-8.435633,Estrada de Eiras (relvinha)
+421,1421,Estrada de Eiras (relvinha),40.237707,-8.435902,Estrada de Eiras (relvinha)
+422,1422,Bairro de São Miguel (centro),40.235438,-8.432637,Bairro de São Miguel (centro)
+423,1423,Monte Romeiras (norte),40.243756,-8.432141,Monte Romeiras (norte)
+424,1424,Monte Romeiras (norte),40.243961,-8.432085,Monte Romeiras (norte)
+425,1425,Vale de S. Miguel,40.237817,-8.427216,Vale de S. Miguel
+426,1426,Vale de S. Miguel,40.237695,-8.42802,Vale de S. Miguel
+427,1427,Bairro de São Miguel (rotunda),40.23587,-8.434646,Bairro de São Miguel (rotunda)
+428,1428,Bairro de São Miguel,40.235901,-8.430214,Bairro de São Miguel
+429,1429,Urbanização do Loreto,40.230303,-8.437965,Urbanização do Loreto
+430,1430,Bairro da Rosa (cruzamento),40.227207,-8.430698,Bairro da Rosa (cruzamento)
+431,1431,Bairro da Rosa,40.228373,-8.431072,Bairro da Rosa
+432,1432,Urbanização do Loreto,40.230667,-8.438053,Urbanização do Loreto
+433,1433,Bairro do Ingote,40.230434,-8.429273,Bairro do Ingote
+434,1434,Urbanização Ar e Sol,40.233054,-8.427395,Urbanização Ar e Sol
+435,1435,Bairro de São Miguel (rotunda),40.234453,-8.434443,Bairro de São Miguel (rotunda)
+436,1436,Bairro do Brinca,40.230792,-8.436711,Bairro do Brinca
+437,1437,Bairro do Brinca,40.231728,-8.436101,Bairro do Brinca
+438,1438,Bairro do Brinca (relvinha),40.233582,-8.434646,Bairro do Brinca (relvinha)
+439,1439,Bairro de São Miguel (sul),40.233928,-8.430287,Bairro de São Miguel (sul)
+440,1440,Urbanização Ar e Sol,40.233351,-8.4273,Urbanização Ar e Sol
+441,1441,Bairro do Ingote,40.230921,-8.429174,Bairro do Ingote
+442,1442,Bairro da Rosa,40.228788,-8.430651,Bairro da Rosa
+443,1443,Estrada de Eiras (gorgulão),40.227261,-8.43729,Estrada de Eiras (gorgulão)
+444,1444,Estrada de Eiras (gorgulão),40.226159,-8.437867,Estrada de Eiras (gorgulão)
+445,1445,Loreto,40.23275,-8.438453,Loreto
+446,1446,Relvinha,40.233994,-8.437197,Relvinha
+447,1447,Relvinha (norte),40.235575,-8.438446,Relvinha (norte)
+448,1448,Monte Formoso 1,40.222029,-8.436142,Monte Formoso 1
+449,1449,Coselhas (vale Figueiras),40.222024,-8.426876,Coselhas (vale Figueiras)
+450,1450,Rua Cidade de Yarosláv,40.225762,-8.433195,Rua Cidade de Yarosláv
+451,1451,Rua Cidade de Fez,40.225408,-8.432358,Rua Cidade de Fez
+452,1452,Rotunda de Coselhas,40.220926,-8.429384,Rotunda de Coselhas
+453,1453,Coselhas (vale Figueiras),40.220819,-8.428699,Coselhas (vale Figueiras)
+454,1454,Estrada de Coselhas 2,40.219995,-8.430576,Estrada de Coselhas 2
+455,1455,Estrada de Coselhas 2,40.219826,-8.43123,Estrada de Coselhas 2
+456,1456,Monte Formoso 1,40.221711,-8.436465,Monte Formoso 1
+457,1457,Rua do Padrão (arco Pintado),40.220249,-8.438756,Rua do Padrão (arco Pintado)
+458,1458,Rotunda da Casa do Sal,40.220305,-8.437364,Rotunda da Casa do Sal
+459,1459,Casa do Sal Jardim,40.218701,-8.43781,Casa do Sal Jardim
+460,1460,Estrada de Coselhas 1,40.219369,-8.433397,Estrada de Coselhas 1
+461,1461,Rotunda da Casa do Sal,40.220095,-8.438134,Rotunda da Casa do Sal
+462,1462,Estrada de Coselhas 1,40.219494,-8.43378,Estrada de Coselhas 1
+463,1463,Monte Formoso 2,40.222947,-8.43584,Monte Formoso 2
+464,1464,Monte Formoso 2,40.223193,-8.435578,Monte Formoso 2
+465,1465,Jardim da Manga (psp),40.211658,-8.42771,Jardim da Manga (psp)
+466,1467,Jardim da Manga (psp),40.211676,-8.428153,Jardim da Manga (psp)
+467,1468,Fernão de Magalhães (arnado),40.213972,-8.433939,Fernão de Magalhães (arnado)
+468,1469,Palácio da Justiça,40.214715,-8.432717,Palácio da Justiça
+469,1470,Palácio da Justiça,40.214626,-8.432793,Palácio da Justiça
+470,1471,Palácio da Justiça,40.214527,-8.432885,Palácio da Justiça
+472,1473,Fernão Magalhães,40.212319,-8.433097,Fernão Magalhães
+473,1474,Estação Nova,40.209513,-8.431887,Estação Nova
+474,1475,Estação Nova,40.209224,-8.432224,Estação Nova
+475,1476,Loja do Cidadão,40.21136,-8.432388,Loja do Cidadão
+476,1477,Estação Nova,40.20946,-8.432023,Estação Nova
+477,1478,Largo do Arnado,40.213634,-8.434056,Largo do Arnado
+478,1480,Arnado,40.212804,-8.43182,Arnado
+479,1483,Jardim da Manga,40.211558,-8.427784,Jardim da Manga
+480,1484,Largo da Conchada,40.214171,-8.427745,Largo da Conchada
+481,1485,Largo Vale do Coelho,40.208784,-8.372013,Largo Vale do Coelho
+482,1486,Conchada,40.214598,-8.429163,Conchada
+483,1487,Rua de Aveiro,40.216561,-8.43507,Rua de Aveiro
+484,1488,Fernão de Magalhães  (rodoviária),40.216912,-8.436861,Fernão de Magalhães  (rodoviária)
+485,1489,Fernão de Magalhães  (rodoviária),40.216038,-8.436369,Fernão de Magalhães  (rodoviária)
+486,1490,Estevão Cabral,40.215322,-8.436026,Estevão Cabral
+487,1491,Fernão de Magalhães (arnado),40.214158,-8.434536,Fernão de Magalhães (arnado)
+488,1492,Loja do Cidadão,40.210945,-8.432316,Loja do Cidadão
+489,1493,Guarda Inglesa,40.210473,-8.437626,Guarda Inglesa
+490,1494,Palácio da Justiça,40.214809,-8.432226,Palácio da Justiça
+494,1499,Beira Rio,40.207549,-8.430529,Beira Rio
+495,1500,Beira Rio,40.207748,-8.430843,Beira Rio
+496,1501,Beira Rio,40.208016,-8.431286,Beira Rio
+497,1502,Pinto de Abreu,40.200767,-8.435934,Pinto de Abreu
+498,1503,Pinto de Abreu (calçadas),40.199195,-8.435674,Pinto de Abreu (calçadas)
+499,1504,Rainha Santa,40.200511,-8.437457,Rainha Santa
+500,1505,Rainha Santa,40.20007,-8.438149,Rainha Santa
+501,1506,Pinto de Abreu (calçadas),40.200162,-8.435813,Pinto de Abreu (calçadas)
+502,1507,Pinto de Abreu,40.201648,-8.435691,Pinto de Abreu
+503,1508,Rossio de Santa Clara,40.203479,-8.43345,Rossio de Santa Clara
+504,1509,Portagem,40.207579,-8.430285,Portagem
+505,1510,Portagem,40.207673,-8.430429,Portagem
+506,1511,Portagem,40.2079,-8.430791,Portagem
+507,1512,Portagem,40.207979,-8.430929,Portagem
+509,1514,Parque,40.206575,-8.42992,Parque
+510,1515,Escola Silva Gaio,40.20799,-8.437972,Escola Silva Gaio
+511,1516,Escola Dom Duarte,40.199234,-8.432301,Escola Dom Duarte
+512,1517,Rainha Santa,40.199986,-8.438059,Rainha Santa
+513,1518,Feitoria dos Linhos,40.201418,-8.434406,Feitoria dos Linhos
+514,1519,Rossio de Santa Clara,40.203737,-8.433264,Rossio de Santa Clara
+515,1521,Portagem,40.20815,-8.431191,Portagem
+516,1523,Portugal dos Pequenitos,40.203095,-8.435512,Portugal dos Pequenitos
+517,1524,Coelho Rocha 2,40.206056,-8.438632,Coelho Rocha 2
+518,1525,Escola Silva Gaio,40.206746,-8.437618,Escola Silva Gaio
+519,1526,Portugal dos Pequenitos,40.202782,-8.434289,Portugal dos Pequenitos
+520,1527,Escola Dom Duarte,40.199643,-8.432695,Escola Dom Duarte
+521,1528,Volta das Calçadas,40.198215,-8.436615,Volta das Calçadas
+522,1529,Volta das Calçadas,40.198633,-8.43675,Volta das Calçadas
+523,1530,Rotunda de Jericó,40.197263,-8.4366,Rotunda de Jericó
+524,1531,Lages (cruzamento),40.195343,-8.431977,Lages (cruzamento)
+525,1532,Lages (cruzamento),40.195578,-8.431455,Lages (cruzamento)
+526,1533,Lages (cruzamento),40.194365,-8.430481,Lages (cruzamento)
+527,1534,Lages (cruzamento),40.194661,-8.430503,Lages (cruzamento)
+528,1535,Lages (norte),40.191364,-8.428685,Lages (norte)
+529,1536,Lages (norte),40.191377,-8.428434,Lages (norte)
+530,1537,Lages (sul),40.191062,-8.426758,Lages (sul)
+531,1538,Lages (sul),40.190916,-8.426702,Lages (sul)
+532,1539,Banhos Secos (norte),40.191109,-8.431585,Banhos Secos (norte)
+533,1540,Quinta das Lágrimas,40.197372,-8.431962,Quinta das Lágrimas
+534,1541,Quinta das Lágrimas,40.197261,-8.431909,Quinta das Lágrimas
+535,1542,Banhos Secos,40.187101,-8.429245,Banhos Secos
+536,1543,Banhos Secos,40.187284,-8.42956,Banhos Secos
+537,1544,Banhos Secos (sul),40.184831,-8.431472,Banhos Secos (sul)
+538,1545,Banhos Secos (sul),40.185303,-8.431401,Banhos Secos (sul)
+539,1546,Quinta da Bica,40.183331,-8.438741,Quinta da Bica
+540,1547,Banhos Secos (sul),40.185836,-8.431412,Banhos Secos (sul)
+541,1548,Estrada de Lisboa,40.185768,-8.43839,Estrada de Lisboa
+542,1549,Rua António Menano,40.188312,-8.432561,Rua António Menano
+543,1550,Banhos Secos (norte),40.189465,-8.429411,Banhos Secos (norte)
+544,1551,Rua do Progresso,40.168395,-8.438578,Rua do Progresso
+545,1552,Carvalhais de Baixo,40.171172,-8.438243,Carvalhais de Baixo
+546,1553,Carvalhais de Baixo,40.171319,-8.438218,Carvalhais de Baixo
+547,1554,Rua do Progresso,40.168667,-8.438579,Rua do Progresso
+548,1555,Assafarge 1,40.160369,-8.433795,Assafarge 1
+549,1556,Quinta da Chanfurrina,40.161604,-8.436785,Quinta da Chanfurrina
+550,1557,Quinta da Chanfurrina,40.162022,-8.436991,Quinta da Chanfurrina
+551,1558,Assafarge 3,40.160116,-8.42899,Assafarge 3
+552,1559,Assafarge 1,40.160142,-8.43347,Assafarge 1
+553,1560,Assafarge (centro),40.160022,-8.432005,Assafarge (centro)
+554,1561,Assafarge (centro),40.16007,-8.4316,Assafarge (centro)
+555,1562,Assafarge 3,40.160205,-8.428139,Assafarge 3
+556,1563,Torre de Vilela,40.272301,-8.423547,Torre de Vilela
+557,1564,Logo de Deus (centro),40.266014,-8.425066,Logo de Deus (centro)
+560,1567,Pragueira (cruzamento),40.251719,-8.422125,Pragueira (cruzamento)
+561,1568,Pragueira (cruzamento),40.250834,-8.421029,Pragueira (cruzamento)
+562,1569,Rua das Chaves,40.252782,-8.424012,Rua das Chaves
+563,1570,Entre Vinhas (centro de Saúde),40.25173,-8.425511,Entre Vinhas (centro de Saúde)
+564,1571,Estrada de Eiras,40.25361,-8.425088,Estrada de Eiras
+565,1572,Rua das Chaves,40.252843,-8.423844,Rua das Chaves
+566,1573,Pragueira,40.248734,-8.427026,Pragueira
+567,1574,Pragueira,40.24882,-8.426586,Pragueira
+568,1575,Variante de Eiras 1,40.249522,-8.415408,Variante de Eiras 1
+569,1576,Variante de Eiras 2,40.250673,-8.41834,Variante de Eiras 2
+570,1577,Pragueira (centro de Saúde),40.249995,-8.424094,Pragueira (centro de Saúde)
+571,1578,Entre Vinhas (centro de Saúde),40.251029,-8.425787,Entre Vinhas (centro de Saúde)
+572,1579,Bairro da Liberdade,40.237059,-8.425351,Bairro da Liberdade
+573,1580,Bairro da Liberdade,40.236635,-8.425622,Bairro da Liberdade
+574,1581,Escola Universitária Vasco da Gama,40.235444,-8.416987,Escola Universitária Vasco da Gama
+575,1582,Escola Universitária Vasco da Gama,40.235511,-8.417225,Escola Universitária Vasco da Gama
+576,1583,Corrente (sul),40.227685,-8.416398,Corrente (sul)
+577,1584,Corrente (sul),40.227619,-8.416342,Corrente (sul)
+578,1585,Bairro da Liberdade (cruzamento),40.232988,-8.426919,Bairro da Liberdade (cruzamento)
+579,1586,Bairro da Liberdade (cruzamento),40.233044,-8.426617,Bairro da Liberdade (cruzamento)
+580,1587,Quinta do Melo (cruzamento),40.234138,-8.421333,Quinta do Melo (cruzamento)
+581,1588,Quinta do Melo (cruzamento),40.234172,-8.421635,Quinta do Melo (cruzamento)
+582,1589,Coselhas 2,40.223385,-8.423581,Coselhas 2
+583,1590,Coselhas 2,40.223308,-8.424163,Coselhas 2
+584,1591,Coselhas (centro),40.224989,-8.419618,Coselhas (centro)
+585,1592,Coselhas (centro),40.224985,-8.420272,Coselhas (centro)
+586,1593,Sé Velha,40.208956,-8.427521,Sé Velha
+589,1599,Manutenção,40.211723,-8.425192,Manutenção
+590,1600,Mercado Municipal,40.211507,-8.425055,Mercado Municipal
+591,1601,Manutenção,40.211198,-8.423604,Manutenção
+592,1602,Montarroio,40.212377,-8.425795,Montarroio
+593,1603,António José de Almeida 1,40.213412,-8.425517,António José de Almeida 1
+594,1604,António José de Almeida 2,40.213087,-8.422669,António José de Almeida 2
+595,1605,Montes Claros,40.212637,-8.419632,Montes Claros
+596,1606,António José de Almeida 4,40.212343,-8.417201,António José de Almeida 4
+597,1607,Calouste Gulbenkian,40.21452,-8.415816,Calouste Gulbenkian
+598,1608,Nicolau Chanterenne 1,40.214476,-8.41886,Nicolau Chanterenne 1
+599,1609,Nicolau Chanterenne 2,40.213871,-8.421849,Nicolau Chanterenne 2
+600,1610,Nicolau Chanterenne 3,40.213805,-8.425617,Nicolau Chanterenne 3
+601,1611,Coselhas - Hospital,40.224826,-8.421786,Coselhas - Hospital
+602,1612,Praça da República,40.20967,-8.420742,Praça da República
+603,1613,Praça da República Gil Vicente,40.209511,-8.420464,Praça da República Gil Vicente
+604,1614,Padre António Vieira 1,40.209689,-8.421761,Padre António Vieira 1
+605,1615,Padre António Vieira 2,40.21054,-8.425292,Padre António Vieira 2
+606,1616,Museu Machado de Castro,40.209215,-8.425027,Museu Machado de Castro
+608,1618,Lourenço Almeida Azevedo,40.211061,-8.415483,Lourenço Almeida Azevedo
+609,1619,Antero de Quental,40.211665,-8.41666,Antero de Quental
+610,1620,Casa da Cultura,40.209954,-8.415254,Casa da Cultura
+612,1622,Machado de Castro,40.214332,-8.417917,Machado de Castro
+613,1623,Calouste Gulbenkian,40.214332,-8.414819,Calouste Gulbenkian
+616,1626,Santa Teresa,40.206692,-8.416455,Santa Teresa
+617,1627,Alexandre Herculano,40.207206,-8.419785,Alexandre Herculano
+618,1628,Castro Matoso,40.208028,-8.421514,Castro Matoso
+619,1629,Universidade,40.207865,-8.424318,Universidade
+620,1630,Arcos do Jardim,40.206357,-8.420355,Arcos do Jardim
+621,1631,Arcos do Jardim,40.206091,-8.420081,Arcos do Jardim
+622,1632,Santa Teresa,40.206533,-8.416621,Santa Teresa
+623,1633,Júlio Henriques,40.203808,-8.419453,Júlio Henriques
+624,1634,Seminário,40.202982,-8.419434,Seminário
+625,1635,Marnoco e Sousa 1,40.20361,-8.418706,Marnoco e Sousa 1
+626,1636,Penedo da Saudade,40.204792,-8.415686,Penedo da Saudade
+627,1637,Combatentes (acapo),40.203191,-8.417318,Combatentes (acapo)
+628,1638,Combatentes 2 (acapo),40.203138,-8.416452,Combatentes 2 (acapo)
+629,1639,Rua do Brasil 3,40.201202,-8.417227,Rua do Brasil 3
+630,1640,Rua do Brasil 2,40.201509,-8.416104,Rua do Brasil 2
+631,1641,Rua do Brasil 4,40.199858,-8.421053,Rua do Brasil 4
+632,1642,Rua do Brasil 1,40.200229,-8.419437,Rua do Brasil 1
+633,1643,Ladeira do Batista,40.200686,-8.422214,Ladeira do Batista
+634,1644,Insua Bentos,40.203722,-8.425407,Insua Bentos
+636,1646,Arcos do Jardim,40.20682,-8.420789,Arcos do Jardim
+637,1647,Largo de Santana,40.206954,-8.417064,Largo de Santana
+638,1648,Parque Verde do Mondego,40.201685,-8.424348,Parque Verde do Mondego
+639,1649,Parque Verde do Mondego,40.203772,-8.424745,Parque Verde do Mondego
+641,1654,Urbano Duarte,40.194628,-8.421007,Urbano Duarte
+642,1655,Urbano Duarte,40.195061,-8.420719,Urbano Duarte
+643,1656,Quinta da Nora,40.192707,-8.417802,Quinta da Nora
+644,1657,Carlos Seixas 1,40.194127,-8.418843,Carlos Seixas 1
+645,1658,Verde Pinho 2,40.195091,-8.418623,Verde Pinho 2
+646,1659,Verde Pinho 3,40.195513,-8.419305,Verde Pinho 3
+647,1660,Boavista 1,40.190683,-8.419477,Boavista 1
+648,1661,Boavista 1,40.190893,-8.419885,Boavista 1
+649,1662,Carlos Seixas 2,40.195587,-8.415701,Carlos Seixas 2
+650,1663,Urbanização Quinta da Estrela,40.196019,-8.420285,Urbanização Quinta da Estrela
+651,1664,Boavista 2,40.190033,-8.418507,Boavista 2
+652,1665,Boavista 2,40.189951,-8.418658,Boavista 2
+653,1666,Volta do Salgueiral,40.186783,-8.425916,Volta do Salgueiral
+654,1667,Volta do Salgueiral,40.187177,-8.425731,Volta do Salgueiral
+655,1668,Miguel Bombarda,40.187007,-8.415896,Miguel Bombarda
+656,1669,Miguel Bombarda,40.187115,-8.416491,Miguel Bombarda
+657,1670,Senhora do Amparo,40.182775,-8.42422,Senhora do Amparo
+658,1671,Senhora do Amparo,40.183487,-8.424341,Senhora do Amparo
+659,1672,Copeira,40.18,-8.421927,Copeira
+660,1673,Copeira,40.180392,-8.4224,Copeira
+661,1674,Mosteiro de São Jorge,40.176609,-8.416124,Mosteiro de São Jorge
+662,1675,Mosteiro de São Jorge,40.176373,-8.415598,Mosteiro de São Jorge
+663,1676,Marco dos Pereiros (centro),40.165912,-8.417439,Marco dos Pereiros (centro)
+664,1677,Santa Luzia,40.163202,-8.422725,Santa Luzia
+665,1678,Marco dos Pereiros (centro),40.165934,-8.416868,Marco dos Pereiros (centro)
+666,1679,Santa Luzia,40.163288,-8.422577,Santa Luzia
+667,1680,Marco dos Pereiros (sul),40.163831,-8.416367,Marco dos Pereiros (sul)
+668,1681,Marco dos Pereiros (sul),40.163473,-8.416167,Marco dos Pereiros (sul)
+669,1682,Marco dos Pereiros,40.163803,-8.420294,Marco dos Pereiros
+670,1683,Marco dos Pereiros,40.163836,-8.420109,Marco dos Pereiros
+671,1684,Rua Nova (alto do Balancho),40.255181,-8.404488,Rua Nova (alto do Balancho)
+672,1685,Alto do Balancho,40.25405,-8.405741,Alto do Balancho
+673,1686,Casais de Eiras (centro),40.249042,-8.413438,Casais de Eiras (centro)
+674,1687,Casal dos Penedos (este),40.250173,-8.403983,Casal dos Penedos (este)
+675,1688,Casais de Eiras (centro),40.248926,-8.413405,Casais de Eiras (centro)
+676,1689,Casal dos Penedos (este),40.250417,-8.403718,Casal dos Penedos (este)
+677,1690,Casal dos Penedos (este),40.250235,-8.403461,Casal dos Penedos (este)
+678,1691,Casais de Eiras,40.24904,-8.410441,Casais de Eiras
+679,1692,Casais de Eiras,40.248853,-8.410121,Casais de Eiras
+680,1693,Casal dos Penedos,40.249249,-8.406035,Casal dos Penedos
+681,1694,Casal dos Penedos,40.249032,-8.406391,Casal dos Penedos
+682,1695,Redonda,40.245228,-8.410589,Redonda
+683,1696,Fonte das Hortas,40.251391,-8.407541,Fonte das Hortas
+684,1697,Lordemão (centro),40.235469,-8.409144,Lordemão (centro)
+685,1698,Lordemão (centro),40.235738,-8.409252,Lordemão (centro)
+686,1699,Redonda (cruzamento),40.238142,-8.4082,Redonda (cruzamento)
+687,1700,Redonda (cruzamento),40.238459,-8.407937,Redonda (cruzamento)
+688,1701,Rua do Depósito 1,40.236859,-8.4047,Rua do Depósito 1
+689,1702,Vale Velho,40.240654,-8.40507,Vale Velho
+690,1703,Vale Velho (cruzamento),40.24052,-8.404708,Vale Velho (cruzamento)
+691,1704,Vale Velho (cruzamento),40.24091,-8.404674,Vale Velho (cruzamento)
+696,1709,Rua do Depósito 2,40.236386,-8.406241,Rua do Depósito 2
+697,1710,Instituto de Lordemão,40.235602,-8.414696,Instituto de Lordemão
+698,1711,Quinta da Mainça,40.228809,-8.408768,Quinta da Mainça
+699,1712,Corrente,40.229166,-8.414999,Corrente
+700,1713,Corrente,40.229305,-8.414766,Corrente
+701,1714,Rua do Luseiro 4,40.234385,-8.403711,Rua do Luseiro 4
+702,1715,Rua do Pinheiro,40.234543,-8.40724,Rua do Pinheiro
+703,1716,Lordemão (sul),40.233298,-8.412648,Lordemão (sul)
+704,1717,Lordemão (sul),40.234102,-8.412235,Lordemão (sul)
+705,1718,Rua do Luseiro 3,40.231875,-8.403678,Rua do Luseiro 3
+706,1719,Mainça de Baixo 1,40.233004,-8.406145,Mainça de Baixo 1
+707,1720,Mainça de Baixo 2,40.231468,-8.407114,Mainça de Baixo 2
+708,1721,Rua do Pinhal,40.226753,-8.403546,Rua do Pinhal
+709,1722,Corrente (norte),40.231098,-8.413103,Corrente (norte)
+710,1723,Corrente (norte),40.231435,-8.413086,Corrente (norte)
+711,1724,Penedo da Meditação,40.2223,-8.409538,Penedo da Meditação
+712,1725,Penedo da Meditação,40.222618,-8.409428,Penedo da Meditação
+713,1726,Hospitais da Universidade (este),40.220582,-8.409811,Hospitais da Universidade (este)
+714,1727,Hospitais da Universidade (este),40.21985,-8.409717,Hospitais da Universidade (este)
+715,1728,Hospitais da Universidade (sul),40.218359,-8.413853,Hospitais da Universidade (sul)
+716,1729,Instituto de Oncologia,40.217513,-8.410055,Instituto de Oncologia
+717,1730,Instituto de Oncologia,40.218176,-8.40989,Instituto de Oncologia
+718,1731,Afrânio Peixoto 1,40.221469,-8.40755,Afrânio Peixoto 1
+719,1732,Afrânio Peixoto 1,40.221495,-8.407376,Afrânio Peixoto 1
+720,1733,Afrânio Peixoto 2,40.219338,-8.407168,Afrânio Peixoto 2
+721,1734,Afrânio Peixoto 2,40.219753,-8.407064,Afrânio Peixoto 2
+722,1735,Nó dos Olivais,40.21782,-8.405591,Nó dos Olivais
+723,1736,Igreja dos Olivais,40.217729,-8.404123,Igreja dos Olivais
+724,1737,Hospitais da Universidade (sul),40.218337,-8.414087,Hospitais da Universidade (sul)
+725,1738,Rua do Açude,40.225574,-8.40626,Rua do Açude
+726,1739,Rua Álvaro Correia,40.225275,-8.403004,Rua Álvaro Correia
+727,1740,Hospitais da Universidade,40.21974,-8.412166,Hospitais da Universidade
+728,1741,Nó dos Olivais,40.218071,-8.405193,Nó dos Olivais
+729,1742,Afonso Henriques 1,40.211537,-8.413366,Afonso Henriques 1
+730,1743,Afonso Henriques 2,40.209001,-8.414556,Afonso Henriques 2
+731,1744,Celas,40.213465,-8.414226,Celas
+732,1745,Celas,40.213178,-8.414215,Celas
+734,1747,Armando Gonçalves,40.215062,-8.413657,Armando Gonçalves
+735,1748,Armando Gonçalves,40.215064,-8.413437,Armando Gonçalves
+736,1749,B.c.g.,40.214775,-8.411564,B.c.g.
+737,1750,B.c.g.,40.214638,-8.411526,B.c.g.
+738,1751,Bernardo Albuquerque,40.215565,-8.409814,Bernardo Albuquerque
+739,1752,Bernardo Albuquerque,40.215786,-8.409435,Bernardo Albuquerque
+740,1753,Olivais,40.216181,-8.407426,Olivais
+741,1754,Olivais,40.216425,-8.406951,Olivais
+742,1755,Instituto de Oncologia,40.217312,-8.410358,Instituto de Oncologia
+743,1756,Faculdade de Ecónomia,40.215078,-8.408392,Faculdade de Ecónomia
+744,1757,Dias da Silva 3,40.213413,-8.409511,Dias da Silva 3
+745,1758,Dias da Silva 3,40.213381,-8.4094,Dias da Silva 3
+746,1759,Dias da Silva 2,40.2112,-8.410871,Dias da Silva 2
+747,1760,Dias da Silva 2,40.210926,-8.410906,Dias da Silva 2
+748,1761,Escola Eugénio de Castro,40.208532,-8.403363,Escola Eugénio de Castro
+749,1762,Escola Eugénio de Castro,40.208552,-8.4036,Escola Eugénio de Castro
+750,1763,Sá Carneiro,40.215214,-8.405418,Sá Carneiro
+751,1764,São Jerónimo,40.213978,-8.404335,São Jerónimo
+752,1765,Pinheiro Chagas,40.209554,-8.413966,Pinheiro Chagas
+753,1766,Henriques Seco,40.209189,-8.412722,Henriques Seco
+754,1767,Benardim Ribeiro,40.210086,-8.409118,Benardim Ribeiro
+755,1768,Alberto Oliveira,40.208795,-8.408054,Alberto Oliveira
+756,1769,Falcão Resende,40.209735,-8.407358,Falcão Resende
+757,1770,Rua Gil Vicente 1,40.211218,-8.40808,Rua Gil Vicente 1
+758,1771,Rua Gil Vicente 2,40.212506,-8.408277,Rua Gil Vicente 2
+759,1772,Rua Luis de Camões,40.214964,-8.407354,Rua Luis de Camões
+760,1776,Dias da Silva 1,40.207809,-8.413858,Dias da Silva 1
+761,1777,Dias da Silva 1,40.208061,-8.41358,Dias da Silva 1
+762,1778,Marnoco e Sousa 3,40.206391,-8.414557,Marnoco e Sousa 3
+763,1779,Miguel Torga 1,40.207251,-8.412011,Miguel Torga 1
+764,1780,Miguel Torga 1,40.207555,-8.411147,Miguel Torga 1
+765,1781,Miguel Torga 2,40.207863,-8.406888,Miguel Torga 2
+766,1782,Miguel Torga 2,40.207722,-8.407484,Miguel Torga 2
+767,1783,Infanta Dona Maria,40.206213,-8.407703,Infanta Dona Maria
+768,1784,Carolina Micaéllis,40.205853,-8.40409,Carolina Micaéllis
+769,1785,Carolina Micaéllis,40.205941,-8.404244,Carolina Micaéllis
+771,1787,Avelar Brotero,40.204887,-8.409689,Avelar Brotero
+772,1788,Humberto Delgado 1,40.205013,-8.41013,Humberto Delgado 1
+773,1789,Humberto Delgado 2,40.204215,-8.413172,Humberto Delgado 2
+774,1790,Combatentes 3,40.203427,-8.413169,Combatentes 3
+775,1791,São José,40.202457,-8.410279,São José
+776,1792,São José,40.202736,-8.410072,São José
+777,1793,Estádio Cidade de Coimbra 1,40.202146,-8.408708,Estádio Cidade de Coimbra 1
+778,1794,Estádio Cidade de Coimbra 2,40.201824,-8.407315,Estádio Cidade de Coimbra 2
+780,1796,Rua do Brasil 2,40.201921,-8.414538,Rua do Brasil 2
+781,1797,Rua do Brasil 3,40.201928,-8.412767,Rua do Brasil 3
+782,1798,Rua do Brasil 1,40.201965,-8.412103,Rua do Brasil 1
+785,1801,Fonte da Cheira,40.200709,-8.406448,Fonte da Cheira
+786,1802,Bandeiras,40.198369,-8.40275,Bandeiras
+787,1803,Rua de Angola 2,40.199697,-8.405319,Rua de Angola 2
+788,1804,Rua de Angola 1,40.200259,-8.407568,Rua de Angola 1
+789,1805,Rua de Angola 1,40.200305,-8.40811,Rua de Angola 1
+790,1806,Rua da Guiné,40.199144,-8.406326,Rua da Guiné
+791,1807,João de Deus Ramos,40.203646,-8.404102,João de Deus Ramos
+792,1808,Vasco da Gama,40.198878,-8.408794,Vasco da Gama
+793,1809,Norton de Matos,40.198919,-8.411207,Norton de Matos
+794,1810,Norton de Matos,40.198379,-8.410684,Norton de Matos
+795,1811,Rua de Moçambique 1,40.197683,-8.407278,Rua de Moçambique 1
+796,1812,Rua de Moçambique 2,40.198117,-8.403983,Rua de Moçambique 2
+797,1813,Daniel de Matos,40.197166,-8.412045,Daniel de Matos
+798,1814,Daniel de Matos,40.196976,-8.412074,Daniel de Matos
+799,1815,Verde Pinho 1,40.196721,-8.415015,Verde Pinho 1
+800,1816,Carlos Seixas 2,40.195912,-8.414946,Carlos Seixas 2
+801,1817,Carlos Seixas 2,40.195956,-8.414585,Carlos Seixas 2
+802,1818,Dom Pedro Cristo,40.195456,-8.413484,Dom Pedro Cristo
+803,1819,Quinta das Flores,40.194439,-8.413723,Quinta das Flores
+804,1820,Quinta das Flores,40.194751,-8.410999,Quinta das Flores
+805,1821,Vale das Flores,40.194806,-8.407414,Vale das Flores
+806,1822,Vale das Flores (rotunda),40.194736,-8.406249,Vale das Flores (rotunda)
+807,1823,Paulo Quintela 1,40.19554,-8.41196,Paulo Quintela 1
+808,1824,Vale das Flores,40.196429,-8.407084,Vale das Flores
+809,1825,Paulo Quintela 3,40.197026,-8.403443,Paulo Quintela 3
+810,1826,Quinta de Marrocos,40.190796,-8.405422,Quinta de Marrocos
+811,1827,Câmara Pestana,40.192822,-8.406772,Câmara Pestana
+812,1828,Paulo Quintela,40.196818,-8.405065,Paulo Quintela
+813,1829,Vale das Flores,40.196588,-8.407961,Vale das Flores
+814,1830,Parque do Vale das Flores,40.194378,-8.413212,Parque do Vale das Flores
+815,1832,Universidade (pólo Dois),40.186149,-8.413003,Universidade (pólo Dois)
+816,1833,Rebolim,40.187092,-8.410752,Rebolim
+817,1834,Pinhal de Marrocos,40.189991,-8.407194,Pinhal de Marrocos
+818,1835,Universidade (pólo Dois),40.186402,-8.413004,Universidade (pólo Dois)
+819,1836,Quinta da Cavada,40.175833,-8.407234,Quinta da Cavada
+820,1837,Quinta da Cavada,40.175886,-8.406854,Quinta da Cavada
+821,1838,Quinta da Urgeiriça,40.169485,-8.406869,Quinta da Urgeiriça
+822,1839,Quinta da Urgeiriça,40.169733,-8.407011,Quinta da Urgeiriça
+823,1840,Castelo Viegas,40.165209,-8.408212,Castelo Viegas
+824,1841,Castelo Viegas,40.165275,-8.408225,Castelo Viegas
+825,1842,Castelo Viegas (centro),40.163235,-8.408102,Castelo Viegas (centro)
+826,1843,Castelo Viegas (centro),40.163061,-8.40817,Castelo Viegas (centro)
+827,1844,Castelo Viegas (junta de Freguesia),40.161938,-8.413421,Castelo Viegas (junta de Freguesia)
+828,1845,Castelo Viegas (junta de Freguesia),40.161738,-8.413819,Castelo Viegas (junta de Freguesia)
+829,1846,Castelo Viegas (cemitero),40.16226,-8.41125,Castelo Viegas (cemitero)
+830,1847,Castelo Viegas (cemitero),40.162302,-8.411391,Castelo Viegas (cemitero)
+831,1848,Casal da Rosa,40.253647,-8.394394,Casal da Rosa
+832,1849,Paredes,40.258208,-8.395716,Paredes
+833,1850,Rua das Paredes 1,40.25642,-8.39924,Rua das Paredes 1
+834,1851,Rua das Paredes 2,40.254238,-8.403675,Rua das Paredes 2
+835,1852,São Paulo de Frades (centro),40.246026,-8.39412,São Paulo de Frades (centro)
+836,1853,São Paulo de Frades (centro),40.246204,-8.393764,São Paulo de Frades (centro)
+837,1854,São Paulo de Frades (norte),40.249117,-8.399256,São Paulo de Frades (norte)
+838,1855,São Paulo de Frades (norte),40.2489,-8.398921,São Paulo de Frades (norte)
+839,1856,Vale da Luz (2),40.251625,-8.400359,Vale da Luz (2)
+840,1857,Vale da Luz,40.251791,-8.396139,Vale da Luz
+841,1858,São Paulo de Frades (igreja),40.244895,-8.395994,São Paulo de Frades (igreja)
+842,1859,São Paulo de Frades (igreja),40.245094,-8.395722,São Paulo de Frades (igreja)
+843,1860,São Romão (cruzamento),40.237874,-8.40319,São Romão (cruzamento)
+844,1861,São Romão (cruzamento),40.238318,-8.403576,São Romão (cruzamento)
+845,1862,Rocha Nova,40.237065,-8.399305,Rocha Nova
+846,1863,Rocha Nova,40.237008,-8.399852,Rocha Nova
+847,1864,Rocha Nova (centro),40.23624,-8.394297,Rocha Nova (centro)
+848,1865,Rocha Nova (centro),40.236118,-8.394541,Rocha Nova (centro)
+849,1866,Casal do Além,40.23746,-8.392363,Casal do Além
+850,1867,Casal do Além,40.237199,-8.392543,Casal do Além
+851,1868,São Paulo de Frades (sul),40.242788,-8.398974,São Paulo de Frades (sul)
+852,1869,São Paulo de Frades (sul),40.243017,-8.398326,São Paulo de Frades (sul)
+853,1870,Rua do Luseiro 2,40.230488,-8.402826,Rua do Luseiro 2
+854,1871,Igreja dos Olivais,40.217728,-8.403497,Igreja dos Olivais
+855,1872,São Romão,40.223091,-8.403453,São Romão
+856,1873,Ivo Cortesão,40.224534,-8.40209,Ivo Cortesão
+857,1874,São Sebastião,40.217378,-8.400624,São Sebastião
+858,1875,São Sebastião,40.217125,-8.399586,São Sebastião
+859,1876,Brigadeiro Correia Cardoso,40.216598,-8.397373,Brigadeiro Correia Cardoso
+860,1877,Brigadeiro Correia Cardoso,40.216243,-8.397274,Brigadeiro Correia Cardoso
+861,1878,Tovim,40.214398,-8.395638,Tovim
+862,1879,Tovim,40.21439,-8.395091,Tovim
+863,1880,Tovim de Baixo 1,40.214577,-8.394802,Tovim de Baixo 1
+864,1881,Tovim de Baixo 1,40.214335,-8.394536,Tovim de Baixo 1
+865,1882,Elísio de Moura 2,40.211211,-8.397588,Elísio de Moura 2
+866,1883,Elísio de Moura 2,40.210885,-8.397276,Elísio de Moura 2
+867,1884,Rotunda da Quinta da Maia,40.213027,-8.402045,Rotunda da Quinta da Maia
+868,1885,Tovim do Meio 1,40.212426,-8.391352,Tovim do Meio 1
+869,1886,Tovim do Meio 1,40.212527,-8.391772,Tovim do Meio 1
+870,1887,Quinta da Maia,40.211499,-8.401894,Quinta da Maia
+871,1888,Tovim de Baixo 2,40.214026,-8.392725,Tovim de Baixo 2
+872,1889,Tovim de Baixo 2,40.21388,-8.392335,Tovim de Baixo 2
+873,1890,Elísio de Moura 3,40.208127,-8.399839,Elísio de Moura 3
+874,1891,Elísio de Moura 3,40.208354,-8.39932,Elísio de Moura 3
+875,1892,Escola Eugénio de Castro,40.207659,-8.403313,Escola Eugénio de Castro
+876,1893,Fernando Namora 1,40.204098,-8.400856,Fernando Namora 1
+877,1894,Fernando Namora 1,40.204122,-8.40066,Fernando Namora 1
+878,1895,Fernando Namora 2,40.20066,-8.399211,Fernando Namora 2
+879,1896,Fernando Namora 2,40.201078,-8.399277,Fernando Namora 2
+880,1897,Bandeiras,40.19917,-8.402766,Bandeiras
+881,1898,Chão do Bispo (centro),40.203187,-8.393098,Chão do Bispo (centro)
+882,1899,Chão do Bispo,40.205156,-8.391805,Chão do Bispo
+883,1900,Elísio de Moura,40.206213,-8.401028,Elísio de Moura
+884,1901,Quinta da Lomba,40.202601,-8.398892,Quinta da Lomba
+885,1902,Ladeira de Chão do Bispo,40.203853,-8.396971,Ladeira de Chão do Bispo
+886,1903,Bandeiras,40.199982,-8.403107,Bandeiras
+887,1904,Casa Branca,40.199191,-8.397704,Casa Branca
+888,1905,Casa Branca,40.198959,-8.397891,Casa Branca
+889,1906,Nogueiras,40.196039,-8.402587,Nogueiras
+890,1907,Nogueiras,40.195787,-8.40272,Nogueiras
+891,1908,Alto de São João (rotunda),40.192844,-8.402657,Alto de São João (rotunda)
+892,1909,Alto de São João (rotunda),40.192887,-8.402575,Alto de São João (rotunda)
+893,1910,Alto de São João (rotunda),40.193646,-8.40206,Alto de São João (rotunda)
+894,1911,Alto de São João (rotunda),40.193581,-8.40158,Alto de São João (rotunda)
+895,1912,Quinta da Fonte,40.195545,-8.397583,Quinta da Fonte
+896,1913,Quinta da Fonte,40.195447,-8.397912,Quinta da Fonte
+897,1914,Quinta da Fonte (rotunda),40.193977,-8.398061,Quinta da Fonte (rotunda)
+898,1915,Alto de São João,40.190887,-8.401804,Alto de São João
+899,1916,Alto de São João,40.190536,-8.40173,Alto de São João
+900,1917,Urbanização Quinta da Romeira 1,40.193762,-8.396793,Urbanização Quinta da Romeira 1
+901,1918,Urbanização Quinta da Romeira 2,40.195413,-8.393409,Urbanização Quinta da Romeira 2
+902,1919,Urbanização Quinta da Romeira 3,40.193644,-8.394455,Urbanização Quinta da Romeira 3
+903,1920,Urbanização Quinta da Romeira 4,40.194704,-8.392326,Urbanização Quinta da Romeira 4
+904,1921,Urbanização Quinta da Romeira 2,40.195795,-8.393462,Urbanização Quinta da Romeira 2
+905,1922,Urbanização Quinta da Romeira 1,40.193498,-8.397018,Urbanização Quinta da Romeira 1
+906,1923,Areeiro,40.190885,-8.398167,Areeiro
+907,1924,Quinta da Fonte (rotunda),40.193049,-8.397894,Quinta da Fonte (rotunda)
+908,1925,Portela,40.185044,-8.398628,Portela
+909,1926,Escola de Ceira,40.184018,-8.393327,Escola de Ceira
+910,1927,Portela (rotunda),40.185189,-8.396987,Portela (rotunda)
+911,1928,Portela (norte),40.185814,-8.399272,Portela (norte)
+912,1929,Barca,40.191481,-8.389076,Barca
+913,1930,Barca,40.191673,-8.388056,Barca
+914,1931,Parque de Campismo,40.18925,-8.399644,Parque de Campismo
+915,1932,Areeiro (escola),40.189888,-8.398857,Areeiro (escola)
+916,1933,Ceira (centro),40.174533,-8.391906,Ceira (centro)
+917,1934,Ceira (centro),40.173333,-8.391859,Ceira (centro)
+918,1935,Conraria,40.173742,-8.394673,Conraria
+919,1936,Conraria (centro),40.176248,-8.39668,Conraria (centro)
+920,1937,Hospital de Sobral Cid,40.17503,-8.402503,Hospital de Sobral Cid
+921,1938,Hospital de Sobral Cid,40.175278,-8.403054,Hospital de Sobral Cid
+922,1939,Conraria (centro),40.176109,-8.396715,Conraria (centro)
+923,1940,Conraria,40.17418,-8.394863,Conraria
+924,1941,Carvalhosas (cruzamento),40.179521,-8.392094,Carvalhosas (cruzamento)
+925,1942,Carvalhosas (cruzamento),40.179239,-8.391839,Carvalhosas (cruzamento)
+926,1943,Ceira (sul),40.17176,-8.3933,Ceira (sul)
+927,1944,Ceira (sul),40.171976,-8.39301,Ceira (sul)
+928,1945,Alto da Rocha Nova,40.237818,-8.390642,Alto da Rocha Nova
+929,1946,Tovim do Meio 2,40.212036,-8.389435,Tovim do Meio 2
+930,1947,Tovim do Meio 2,40.212191,-8.389753,Tovim do Meio 2
+931,1948,Tovim de Cima 1,40.213043,-8.387024,Tovim de Cima 1
+932,1949,Tovim de Cima 1,40.213174,-8.386402,Tovim de Cima 1
+933,1950,Tovim de Cima 2,40.210931,-8.384999,Tovim de Cima 2
+934,1951,Tovim de Cima 2,40.211135,-8.384735,Tovim de Cima 2
+935,1952,Tovim de Cima 3,40.212982,-8.384366,Tovim de Cima 3
+936,1953,Tovim de Cima 3,40.213059,-8.384196,Tovim de Cima 3
+937,1954,Picoto dos Barbados,40.212144,-8.383514,Picoto dos Barbados
+938,1955,Picoto dos Barbados,40.212566,-8.383659,Picoto dos Barbados
+939,1956,Daniel Rodrigues,40.210142,-8.390045,Daniel Rodrigues
+940,1957,Malheiros,40.207717,-8.390151,Malheiros
+941,1958,Torres do Mondego (sul),40.192881,-8.384595,Torres do Mondego (sul)
+942,1959,Torres do Mondego (centro),40.195025,-8.380977,Torres do Mondego (centro)
+943,1960,Torres do Mondego (sul),40.192998,-8.384544,Torres do Mondego (sul)
+944,1961,Estrada das Carvalhosas,40.180659,-8.392254,Estrada das Carvalhosas
+945,1962,Golpe,40.246064,-8.36969,Golpe
+946,1963,Golpe,40.246144,-8.369766,Golpe
+947,1964,Golpe (norte),40.249252,-8.369137,Golpe (norte)
+948,1965,Golpe (norte),40.249534,-8.368962,Golpe (norte)
+949,1966,Rocha Velha,40.250021,-8.371971,Rocha Velha
+950,1967,Cova do Ouro (cruzamento),40.228353,-8.374888,Cova do Ouro (cruzamento)
+951,1968,Cova do Ouro (cruzamento),40.228443,-8.374484,Cova do Ouro (cruzamento)
+952,1969,Cova do Ouro 3,40.229169,-8.372979,Cova do Ouro 3
+953,1970,Cova do Ouro 3,40.228874,-8.373296,Cova do Ouro 3
+954,1971,Dianteiro 1,40.232722,-8.370616,Dianteiro 1
+955,1972,Dianteiro 1,40.232541,-8.370731,Dianteiro 1
+956,1973,Dianteiro 2,40.234451,-8.367474,Dianteiro 2
+957,1974,Dianteiro 2,40.234619,-8.367398,Dianteiro 2
+958,1975,Serra da Rocha 2,40.23544,-8.378298,Serra da Rocha 2
+959,1976,Serra da Rocha 2,40.235276,-8.378257,Serra da Rocha 2
+960,1977,Cova do Ouro,40.230529,-8.376452,Cova do Ouro
+961,1978,Cova do Ouro,40.230263,-8.376454,Cova do Ouro
+962,1979,Casal do Lobo (centro),40.217652,-8.374583,Casal do Lobo (centro)
+963,1980,Casal do Lobo (centro),40.217433,-8.37446,Casal do Lobo (centro)
+964,1981,Casal do Lobo 3,40.219827,-8.373918,Casal do Lobo 3
+965,1982,Casal do Lobo 3,40.219491,-8.374041,Casal do Lobo 3
+966,1983,Casal do Lobo 4,40.223883,-8.375687,Casal do Lobo 4
+967,1984,Casal do Lobo 4,40.223377,-8.375423,Casal do Lobo 4
+968,1985,Cova do Ouro 1,40.226926,-8.376384,Cova do Ouro 1
+969,1986,Cova do Ouro 1,40.226504,-8.376293,Cova do Ouro 1
+970,1987,Mata de Vale de Canas,40.210274,-8.37938,Mata de Vale de Canas
+971,1988,Mata de Vale de Canas,40.210506,-8.379472,Mata de Vale de Canas
+972,1989,Vale de Canas (norte),40.212732,-8.377008,Vale de Canas (norte)
+973,1990,Vale de Canas (norte),40.212322,-8.377262,Vale de Canas (norte)
+974,1991,Casal do Lobo 1,40.215012,-8.373766,Casal do Lobo 1
+975,1992,Casal do Lobo 1,40.214439,-8.374552,Casal do Lobo 1
+976,1993,Casal da Misarela (cruzamento),40.199889,-8.370651,Casal da Misarela (cruzamento)
+977,1994,Casal da Misarela (cruzamento),40.200056,-8.370588,Casal da Misarela (cruzamento)
+978,1995,Torres do Mondego (centro),40.195917,-8.379124,Torres do Mondego (centro)
+979,1996,Torres do Mondego (norte),40.197706,-8.376915,Torres do Mondego (norte)
+980,1997,Torres do Mondego (norte),40.197232,-8.377893,Torres do Mondego (norte)
+981,1998,Golpe (cruzamento),40.245613,-8.363645,Golpe (cruzamento)
+982,1999,Golpe (cruzamento),40.246078,-8.364143,Golpe (cruzamento)
+983,2000,Carapinheira,40.240416,-8.363066,Carapinheira
+984,2001,Carapinheira,40.240576,-8.363226,Carapinheira
+985,2002,Dianteiro (centro),40.23749,-8.362779,Dianteiro (centro)
+986,2003,Dianteiro (centro),40.237308,-8.362874,Dianteiro (centro)
+987,2004,Dianteiro 4,40.236029,-8.363778,Dianteiro 4
+988,2005,Dianteiro 4,40.236155,-8.36375,Dianteiro 4
+989,2006,Carapinheira Norte,40.243092,-8.362452,Carapinheira Norte
+990,2007,Carapinheira Norte,40.242532,-8.362551,Carapinheira Norte
+991,2008,Dianteiro 3,40.235256,-8.365877,Dianteiro 3
+992,2009,Dianteiro 3,40.235444,-8.36561,Dianteiro 3
+993,2010,Casal da Misarela (centro),40.205564,-8.363694,Casal da Misarela (centro)
+994,2011,Casal da Misarela (centro),40.205623,-8.364091,Casal da Misarela (centro)
+995,2012,Casal da Misarela (sul),40.202735,-8.367314,Casal da Misarela (sul)
+996,2013,Casal da Misarela (sul),40.202239,-8.367947,Casal da Misarela (sul)
+997,2014,Casal da Misarela (norte),40.207499,-8.359618,Casal da Misarela (norte)
+998,2015,Rua Combatentes 2,40.191619,-8.526575,Rua Combatentes 2
+999,2016,Rua Combatentes 2,40.191479,-8.526565,Rua Combatentes 2
+1000,2017,Casais (apeadeiro),40.204907,-8.484604,Casais (apeadeiro)
+1001,2018,Casais,40.203143,-8.484963,Casais
+1002,2019,Casais (apeadeiro),40.204882,-8.484445,Casais (apeadeiro)
+1003,2020,Rua das Paredes 1,40.258068,-8.397206,Rua das Paredes 1
+1004,2021,Rua 25 de Abril,40.252572,-8.395008,Rua 25 de Abril
+1005,2022,Rua António Jardim (1),40.21667,-8.399152,Rua António Jardim (1)
+1006,2023,Rua António Jardim (2),40.214943,-8.397921,Rua António Jardim (2)
+1007,2024,Rua António Jardim (3),40.212698,-8.399027,Rua António Jardim (3)
+1008,2025,Rua António Jardim (5),40.210522,-8.398592,Rua António Jardim (5)
+1009,2026,João de Deus Ramos,40.203689,-8.404266,João de Deus Ramos
+1010,2027,Rua da Mata,40.211811,-8.377258,Rua da Mata
+1011,2028,Vale de Canas,40.204104,-8.369647,Vale de Canas
+1012,2029,Rua Eládio Alle Alvarez (1),40.211546,-8.380317,Rua Eládio Alle Alvarez (1)
+1013,2030,Rua Eládio Alle Alvarez (1),40.213376,-8.381161,Rua Eládio Alle Alvarez (1)
+1014,2031,Rua António Neves da Costa (1),40.216545,-8.384597,Rua António Neves da Costa (1)
+1015,2032,Rua António Neves da Costa (1),40.215599,-8.386021,Rua António Neves da Costa (1)
+1016,2033,Coselhas (1),40.222245,-8.426316,Coselhas (1)
+1017,2034,Variante de Eiras (1),40.249418,-8.415315,Variante de Eiras (1)
+1018,2035,Oureça,40.251317,-8.416097,Oureça
+1019,2036,Tojeira,40.252714,-8.417331,Tojeira
+1020,2037,Forum - Bombas,40.20975,-8.444698,Forum - Bombas
+1021,2038,Forum - Bombas,40.208966,-8.443805,Forum - Bombas
+1022,2039,Santa Apolónia Centro,40.253676,-8.43546,Santa Apolónia Centro
+1023,2040,Portagem,40.207274,-8.429275,Portagem
+1024,2042,Rua José Alberto dos Reis,40.216752,-8.409075,Rua José Alberto dos Reis
+1025,2043,Rua o Conimbricence 2,40.182954,-8.407097,Rua o Conimbricence 2
+1026,2044,Largo Poço do Mato,40.166037,-8.432033,Largo Poço do Mato
+1027,2045,Largo Poço do Mato,40.165855,-8.432049,Largo Poço do Mato
+1028,2046,Casal de São João,40.164237,-8.426687,Casal de São João
+1029,2047,Casal de São João,40.164178,-8.426775,Casal de São João
+1030,2048,Santa Luzia,40.163856,-8.423152,Santa Luzia
+1031,2049,Santa Luzia,40.163742,-8.422963,Santa Luzia
+1032,2050,Marco dos Pereiros (centro),40.165357,-8.417705,Marco dos Pereiros (centro)
+1033,2051,Marco dos Pereiros (centro),40.164761,-8.418156,Marco dos Pereiros (centro)
+1034,2052,Rua da Portela 1,40.161128,-8.419099,Rua da Portela 1
+1035,2053,Rua da Portela 1,40.161323,-8.419672,Rua da Portela 1
+1036,2054,Rua da Portela 2,40.158688,-8.417889,Rua da Portela 2
+1037,2055,Rua da Portela 2,40.159009,-8.417838,Rua da Portela 2
+1038,2056,Rua da Portela 3,40.152085,-8.415573,Rua da Portela 3
+1039,2057,Rua da Portela 3,40.152508,-8.415705,Rua da Portela 3
+1040,2058,Portela do Gato,40.148274,-8.412121,Portela do Gato
+1041,2059,Portela do Gato,40.148078,-8.411926,Portela do Gato
+1042,2060,Rua do Meio,40.146968,-8.410751,Rua do Meio
+1043,2061,Rua do Meio,40.146243,-8.410899,Rua do Meio
+1044,2062,Céstas,40.142707,-8.40856,Céstas
+1045,2063,Céstas,40.142876,-8.408746,Céstas
+1046,2064,Outeiro de Bera,40.140203,-8.405019,Outeiro de Bera
+1047,2065,Outeiro de Bera,40.139978,-8.404945,Outeiro de Bera
+1048,2066,Rua dos Lagos 1,40.136459,-8.40225,Rua dos Lagos 1
+1049,2067,Rua dos Lagos 1,40.136729,-8.402574,Rua dos Lagos 1
+1050,2068,Rua dos Lagos 2,40.136191,-8.397603,Rua dos Lagos 2
+1051,2069,Rua dos Lagos 2,40.136203,-8.397196,Rua dos Lagos 2
+1052,2070,Rua da Estrada Nova,40.13419,-8.393584,Rua da Estrada Nova
+1053,2071,Rua da Estrada Nova,40.134145,-8.393327,Rua da Estrada Nova
+1054,2072,Rua do Santo Cristo,40.135199,-8.391957,Rua do Santo Cristo
+1055,2073,Rua dos Pereiros,40.135303,-8.39146,Rua dos Pereiros
+1056,2074,Rua de Santiago,40.135157,-8.390296,Rua de Santiago
+1057,2075,Rua de Santiago,40.13525,-8.390149,Rua de Santiago
+1058,2076,Largo do Terreiro,40.130178,-8.391231,Largo do Terreiro
+1059,2077,Quinta da Nora,40.19305,-8.418965,Quinta da Nora
+1062,2080,Mourélos,40.275964,-8.486842,Mourélos
+1063,2081,Fonte da Portela,40.27475,-8.490193,Fonte da Portela
+1064,2082,Rua de São Bento (cruzamento),40.200085,-8.370604,Rua de São Bento (cruzamento)
+1065,2083,Rua 25 Abril 1,40.207015,-8.372035,Rua 25 Abril 1
+1066,2084,Rua de São Bento 1,40.20228,-8.369686,Rua de São Bento 1
+1067,2085,Rua 25 Abril 2,40.20591,-8.37148,Rua 25 Abril 2
+1068,2086,Sargento Mór,40.28909,-8.447206,Sargento Mór
+1069,2087,Sargento Mór (sul),40.287214,-8.449641,Sargento Mór (sul)
+1070,2088,Rua da Estrada Nova,40.135438,-8.395161,Rua da Estrada Nova
+1071,2089,Rua da Estrada Nova,40.134871,-8.394722,Rua da Estrada Nova
+1072,2090,Avenida Afonso Romão,40.221275,-8.416876,Avenida Afonso Romão
+1073,2091,Rua de Baixo,40.188526,-8.514619,Rua de Baixo
+1074,2092,Rua de Baixo,40.188638,-8.514905,Rua de Baixo
+1075,2093,Bairro das Fachadas (cruzamento),40.2422,-8.402107,Bairro das Fachadas (cruzamento)
+1076,2094,Rua da Almaziva,40.247254,-8.395565,Rua da Almaziva
+1077,2095,Rua da Almaziva,40.247022,-8.395205,Rua da Almaziva
+1078,2096,Rua 25 de Abril,40.230812,-8.372469,Rua 25 de Abril
+1079,2097,Rua 25 de Abril,40.23067,-8.37275,Rua 25 de Abril
+1080,2098,Rua do Regatinho,40.246539,-8.368433,Rua do Regatinho
+1081,2099,Rua do Regatinho,40.246759,-8.368193,Rua do Regatinho
+1082,2100,Estrada da Beira (ceira),40.173765,-8.390881,Estrada da Beira (ceira)
+1083,2101,Rua Abílio Fernandes,40.185406,-8.411568,Rua Abílio Fernandes
+1084,2102,Praia do Rebolim,40.182887,-8.411268,Praia do Rebolim
+1085,2103,Parque Industrial de Taveiro (1),40.198244,-8.512679,Parque Industrial de Taveiro (1)
+1086,2104,Parque Industrial de Taveiro (2),40.196303,-8.509321,Parque Industrial de Taveiro (2)
+1087,2105,Hospital Pediátrico,40.222691,-8.414527,Hospital Pediátrico
+1088,2106,Rua de Condeixa Cemitério,40.180899,-8.548057,Rua de Condeixa Cemitério
+1089,2107,Rua de Condeixa Cemitério,40.181054,-8.548269,Rua de Condeixa Cemitério
+1090,2109,Fala,40.201646,-8.467588,Fala
+1110,1479,Rua de Santo António,40.210556,-8.366363,Rua de Santo António
+1111,1481,Jardim Botânico (mata),40.205248,-8.424322,Jardim Botânico (mata)
+1112,1522,Couraça de Lisboa,40.206887,-8.428573,Couraça de Lisboa
+1113,1520,Universidade,40.207977,-8.424345,Universidade
+1114,1495,Jardim Botânico (estufa),40.206627,-8.422606,Jardim Botânico (estufa)
+1115,1482,Jardim Botânico (bambuzal),40.206104,-8.423551,Jardim Botânico (bambuzal)
+1116,1466,Escola Silva Gaio,40.207913,-8.436337,Escola Silva Gaio
+1117,1597,Rua da Chavinha,40.202524,-8.480535,Rua da Chavinha
+1118,1595,Estrada de Valongo,40.181998,-8.472528,Estrada de Valongo
+1119,1594,Estrada de Valongo,40.181543,-8.473066,Estrada de Valongo
+1120,1650,Conchada (cemitério),40.217084,-8.431667,Conchada (cemitério)
+1121,1653,R. Freixo,40.216665,-8.451124,R. Freixo
+1122,1775,Bencanta (j. Freguesia),40.214486,-8.459311,Bencanta (j. Freguesia)
+1123,1774,Bencanta (apeadeiro),40.214791,-8.456992,Bencanta (apeadeiro)
+1124,1773,Gorgulão,40.215453,-8.454024,Gorgulão
+1125,1831,Bissaya Barreto,40.213344,-8.461909,Bissaya Barreto
+1126,2041,Montessão,40.212606,-8.464331,Montessão
+1127,2113,Rua do Pinheiro Manso,40.210808,-8.455218,Rua do Pinheiro Manso
+1128,2112,São Martinho - Piscinas,40.209554,-8.454288,São Martinho - Piscinas
+1129,2111,R. Misericórdia,40.207246,-8.454501,R. Misericórdia
+1130,2110,Piscinas,40.209302,-8.454438,Piscinas
+1131,2108,R. Pinheiro Manso,40.210264,-8.455418,R. Pinheiro Manso
+1132,1051,Misarela,40.208069,-8.364067,Misarela
+1134,1651,Casal do Lobo,40.214046,-8.3745,Casal do Lobo
+1135,1652,Casal do Lobo,40.214116,-8.374518,Casal do Lobo
+1136,2114,Rua do Luseiro 1,40.226244,-8.401142,Rua do Luseiro 1
+1137,2115,Afonso Henriques 3,40.207366,-8.415331,Afonso Henriques 3
+1138,2116,Póvoa (rotunda),40.195646,-8.450741,Póvoa (rotunda)
+1139,2118,Quinta da Portela 1,40.18895,-8.401507,Quinta da Portela 1
+1140,2117,Quinta da Portela 1,40.188578,-8.401722,Quinta da Portela 1
+1141,2120,Quinta da Portela  - centro,40.184882,-8.403328,Quinta da Portela  - centro
+1142,2119,Quinta da Portela - centro,40.184806,-8.403736,Quinta da Portela - centro
+1143,2121,Rotunda das Carvalhosas,40.181162,-8.392202,Rotunda das Carvalhosas
+1144,2122,Escola de Ceira,40.184117,-8.393708,Escola de Ceira
+1145,2123,Carvalhosas 1,40.188644,-8.383279,Carvalhosas 1
+1146,2124,Carvalhosas 1,40.188861,-8.383058,Carvalhosas 1
+1147,2126,Carvalhosas 2,40.188312,-8.38123,Carvalhosas 2
+1148,2125,Carvalhosas 2,40.188325,-8.380961,Carvalhosas 2
+1149,2128,Carvalhosas 3,40.190019,-8.377837,Carvalhosas 3
+1150,2127,Carvalhosas 3,40.189979,-8.377774,Carvalhosas 3
+1151,2130,Carvalhosas 4,40.190773,-8.374786,Carvalhosas 4
+1152,2129,Carvalhosas 4,40.190785,-8.37468,Carvalhosas 4
+1153,2132,Carvalhosas 5,40.193608,-8.37315,Carvalhosas 5
+1154,2131,Carvalhosas 5,40.193744,-8.373105,Carvalhosas 5
+1155,2136,Praia Fluvial,40.198917,-8.366087,Praia Fluvial
+1156,2135,Praia Fluvial,40.19875,-8.365909,Praia Fluvial
+1157,2134,Cemitério,40.196855,-8.369026,Cemitério
+1158,2133,Cemitério,40.196922,-8.368787,Cemitério
+1159,2145,Zorro,40.202525,-8.354062,Zorro
+1160,2144,Palheiros 4,40.202564,-8.357892,Palheiros 4
+1161,2143,Palheiros 4,40.202561,-8.357826,Palheiros 4
+1162,2142,Palheiros 3,40.201853,-8.359944,Palheiros 3
+1163,2141,Palheiros 3,40.201807,-8.359809,Palheiros 3
+1164,2140,Palheiros 2,40.201756,-8.361719,Palheiros 2
+1165,2139,Palheiros 2,40.201718,-8.361672,Palheiros 2
+1166,2138,Palheiros 1,40.200656,-8.363916,Palheiros 1
+1167,2137,Palheiros 1,40.200858,-8.363713,Palheiros 1
+1168,2147,Vendas de Ceira 1,40.169267,-8.391295,Vendas de Ceira 1
+1169,2146,Vendas de Ceira 1,40.16945,-8.391201,Vendas de Ceira 1
+1170,2153,Sobral de Ceira - centro,40.165262,-8.387667,Sobral de Ceira - centro
+1171,2152,Sobral de Ceira - centro,40.164759,-8.3872,Sobral de Ceira - centro
+1172,2151,Carvalhais - Cruzamento,40.181549,-8.442345,Carvalhais - Cruzamento
+1173,2150,Carvalhais  Cruzamento,40.181909,-8.442227,Carvalhais  Cruzamento
+1174,2149,Vendas de Ceira 2,40.167714,-8.391697,Vendas de Ceira 2
+1175,2148,Vendas de Ceira 2,40.167423,-8.391621,Vendas de Ceira 2
+1176,2159,Cartaxos,40.154513,-8.390242,Cartaxos
+1177,2158,Cartaxos,40.154499,-8.390336,Cartaxos
+1178,2157,Cruz. Abelheira,40.159639,-8.385339,Cruz. Abelheira
+1179,2156,Cruz. Abelheira,40.15979,-8.38554,Cruz. Abelheira
+1180,2155,Sobral de Ceira 3,40.163231,-8.385419,Sobral de Ceira 3
+1181,2154,Sobral de Ceira 3,40.16318,-8.385746,Sobral de Ceira 3
+1182,2161,Cruz. Cartaxos,40.153014,-8.390975,Cruz. Cartaxos
+1183,2160,Cruz. Cartaxos,40.152996,-8.391136,Cruz. Cartaxos
+1186,2170,Rua da Madroa 2,40.137733,-8.393043,Rua da Madroa 2
+1187,2169,Rua da Madroa 1,40.140273,-8.394816,Rua da Madroa 1
+1188,2168,Rua da Madroa 1,40.139927,-8.394864,Rua da Madroa 1
+1189,2167,Anaguéis 3,40.144259,-8.392101,Anaguéis 3
+1190,2166,Anaguéis 3,40.143782,-8.392572,Anaguéis 3
+1191,2165,Anaguéis - centro,40.145563,-8.391093,Anaguéis - centro
+1192,2164,Anaguéis - centro,40.145694,-8.39114,Anaguéis - centro
+1193,2163,Anaguéis 1 - Escola,40.147562,-8.391275,Anaguéis 1 - Escola
+1194,2162,Anaguéis 1 - Escola,40.147411,-8.392057,Anaguéis 1 - Escola
+1197,2173,Almalaguês - centro,40.13596,-8.39187,Almalaguês - centro
+1198,2171,Rua da Madroa 2,40.138426,-8.393142,Rua da Madroa 2
+1199,2174,Cruz. Alcarraques,40.252522,-8.463,Cruz. Alcarraques
+1200,2176,Quinta da Portela  2,40.186524,-8.403439,Quinta da Portela  2
+1201,2175,Quinta da Portela 2,40.186462,-8.404163,Quinta da Portela 2
+1203,2185,Antanhol - Casa Meada,40.163608,-8.459914,Antanhol - Casa Meada
+1204,2184,Antanhol - Casa Meada,40.163266,-8.460216,Antanhol - Casa Meada
+1205,2183,Casa Meada - Cruzamento,40.16324,-8.457549,Casa Meada - Cruzamento
+1206,2182,Casa Meada - Ic2,40.164943,-8.457508,Casa Meada - Ic2
+1207,2181,Murteira - Ic2,40.168909,-8.455354,Murteira - Ic2
+1208,2180,Murteira - Ic2,40.168942,-8.455578,Murteira - Ic2
+1209,2179,Quinta do Limoeiro - Ic2,40.175576,-8.450839,Quinta do Limoeiro - Ic2
+1210,2178,Quinta do Limoeiro - Ic2,40.175207,-8.451513,Quinta do Limoeiro - Ic2
+1211,2201,Rua da Chanfurrina,40.160582,-8.436462,Rua da Chanfurrina
+1212,2200,Rua da Chanfurrina,40.160685,-8.436284,Rua da Chanfurrina
+1213,2199,Palheira - zona Industrial,40.162138,-8.446529,Palheira - zona Industrial
+1214,2198,Palheira - zona Industrial,40.161958,-8.446394,Palheira - zona Industrial
+1215,2197,Palheira - Escola,40.163291,-8.448874,Palheira - Escola
+1216,2196,Palheira - Escola,40.163049,-8.448681,Palheira - Escola
+1217,2195,Palheira - centro,40.163477,-8.45057,Palheira - centro
+1218,2194,Palheira - centro,40.16342,-8.450382,Palheira - centro
+1219,2193,Palheira 2,40.164171,-8.452581,Palheira 2
+1220,2192,Palheira 2,40.163911,-8.452348,Palheira 2
+1221,2191,Palheira 1,40.162868,-8.454331,Palheira 1
+1222,2190,Palheira 1,40.162819,-8.454159,Palheira 1
+1223,2189,Palheira - cruzamento,40.161736,-8.456683,Palheira - cruzamento
+1224,2188,Palheira - cruzamento,40.161908,-8.456531,Palheira - cruzamento
+1225,2187,Casa Meada - viaduto,40.161024,-8.459436,Casa Meada - viaduto
+1226,2186,Casa Meada - viaduto,40.160898,-8.459108,Casa Meada - viaduto
+1227,2204,Casa Nova - cruzamento,40.157617,-8.43292,Casa Nova - cruzamento
+1228,2203,Casa Nova - cruzamento,40.15768,-8.432318,Casa Nova - cruzamento
+1229,2202,Casa Nova - cruzamento,40.158012,-8.432775,Casa Nova - cruzamento
+1230,2211,Vale de Cântaro - centro,40.1472,-8.438616,Vale de Cântaro - centro
+1231,2210,Vale de Cântaro 2,40.149024,-8.437773,Vale de Cântaro 2
+1232,2209,Vale de Cântaro 2,40.148588,-8.437829,Vale de Cântaro 2
+1233,2208,Vale de Cântaro 1,40.150806,-8.438796,Vale de Cântaro 1
+1234,2207,Vale de Cântaro 1,40.150587,-8.438984,Vale de Cântaro 1
+1235,2206,Rua da Fonte,40.154379,-8.435445,Rua da Fonte
+1236,2205,Rua da Fonte,40.154642,-8.435485,Rua da Fonte
+1237,2221,Abrunheira 4,40.14662,-8.426656,Abrunheira 4
+1238,2220,Abrunheira 4,40.146622,-8.426763,Abrunheira 4
+1239,2219,Abrunheira - centro,40.149241,-8.427755,Abrunheira - centro
+1240,2218,Abrunheira - centro,40.149132,-8.427846,Abrunheira - centro
+1241,2217,Abrunheira 2,40.150263,-8.429322,Abrunheira 2
+1242,2216,Abrunheira 2,40.150052,-8.429137,Abrunheira 2
+1243,2215,Abrunheira 1,40.152586,-8.430726,Abrunheira 1
+1244,2214,Abrunheira 1,40.152216,-8.430577,Abrunheira 1
+1245,2213,Assafarge - Casa Nova,40.155643,-8.430859,Assafarge - Casa Nova
+1246,2212,Assafarge - Casa Nova,40.155323,-8.43129,Assafarge - Casa Nova
+1247,2236,Pousada 3,40.140395,-8.458943,Pousada 3
+1248,2235,Pousada - centro,40.140752,-8.455955,Pousada - centro
+1249,2234,Pousada - escola,40.139939,-8.454766,Pousada - escola
+1250,2233,Vendas da Pousada,40.138476,-8.454802,Vendas da Pousada
+1251,2232,Telhadela 4,40.137941,-8.450912,Telhadela 4
+1252,2231,Telhadela 3,40.138788,-8.447322,Telhadela 3
+1253,2230,Telhadela - centro,40.139402,-8.445444,Telhadela - centro
+1254,2229,Telhadela 1,40.138389,-8.443092,Telhadela 1
+1255,2228,Loureiro 4,40.135046,-8.433963,Loureiro 4
+1256,2227,Loureiro - centro,40.134075,-8.431294,Loureiro - centro
+1257,2226,Loureiro - centro,40.133976,-8.43159,Loureiro - centro
+1258,2225,Loureiro 2,40.135268,-8.429435,Loureiro 2
+1259,2224,Loureiro 2,40.135253,-8.429791,Loureiro 2
+1260,2223,Loureiro 1,40.137439,-8.429035,Loureiro 1
+1261,2222,Loureiro 1,40.137288,-8.429031,Loureiro 1
+1262,2248,Vila Nova 3,40.130115,-8.459383,Vila Nova 3
+1263,2247,Moita Santa 2,40.134013,-8.464119,Moita Santa 2
+1264,2246,Moita Santa 1,40.133446,-8.462906,Moita Santa 1
+1265,2245,Vila Nova - centro,40.130837,-8.464466,Vila Nova - centro
+1266,2244,Vila Nova 1,40.133249,-8.466932,Vila Nova 1
+1267,2243,Vila Nova 1,40.132968,-8.46661,Vila Nova 1
+1268,2242,Cernache - Centro de Saúde,40.13638,-8.467752,Cernache - Centro de Saúde
+1269,2241,Cernache - Centro de Saúde,40.136887,-8.467787,Cernache - Centro de Saúde
+1270,2240,Lameira 2,40.140503,-8.465865,Lameira 2
+1271,2239,Lameira 1,40.139417,-8.466264,Lameira 1
+1272,2238,Lameira 1,40.139397,-8.466802,Lameira 1
+1273,2237,Cernache - Este,40.140416,-8.461993,Cernache - Este
+1274,2259,Arneiro,40.149177,-8.465704,Arneiro
+1275,2258,Arneiro,40.149117,-8.465841,Arneiro
+1276,2257,Venda do Cego,40.152564,-8.463798,Venda do Cego
+1277,2256,Venda do Cego,40.153032,-8.463704,Venda do Cego
+1278,2255,Casa Meada 2,40.159018,-8.462738,Casa Meada 2
+1279,2254,Casa Meada 2,40.158011,-8.463274,Casa Meada 2
+1280,2253,Casa Meada 1,40.161196,-8.462191,Casa Meada 1
+1281,2252,Casa Meada 1,40.161449,-8.462165,Casa Meada 1
+1284,2249,Casa Telhada - centro,40.125155,-8.444738,Casa Telhada - centro
+1285,2268,Rua das Chãs,40.133894,-8.468086,Rua das Chãs
+1286,2267,Casconha - Interface,40.133431,-8.471887,Casconha - Interface
+1287,2266,Penedo Alto,40.133763,-8.473906,Penedo Alto
+1288,2265,Cernache 4,40.136058,-8.471177,Cernache 4
+1289,2264,Cernache - centro,40.13842,-8.469518,Cernache - centro
+1290,2263,Cernache 2,40.141604,-8.468125,Cernache 2
+1291,2262,Cernache 2,40.141299,-8.468291,Cernache 2
+1292,2261,Cernache 1,40.144114,-8.467582,Cernache 1
+1293,2260,Cernache 1,40.143796,-8.467784,Cernache 1
+1294,2272,I-parque 2,40.179432,-8.467172,I-parque 2
+1295,2271,I-parque 2,40.179122,-8.467257,I-parque 2
+1296,2270,I-parque 1,40.1805,-8.470624,I-parque 1
+1297,2269,I-parque 1,40.180198,-8.470627,I-parque 1
+1298,2291,Antanhol - cruzamento,40.16533,-8.460989,Antanhol - cruzamento
+1299,2290,Antanhol - cruzamento,40.165287,-8.460568,Antanhol - cruzamento
+1300,2289,Antanhol 4,40.165733,-8.462674,Antanhol 4
+1301,2288,Antanhol 4,40.165586,-8.462625,Antanhol 4
+1302,2287,Antanhol - centro,40.167317,-8.463546,Antanhol - centro
+1303,2286,Antanhol - centro,40.167553,-8.463987,Antanhol - centro
+1304,2285,Antanhol 2,40.167533,-8.467109,Antanhol 2
+1305,2284,Antanhol 2,40.167653,-8.466195,Antanhol 2
+1306,2283,Antanhol 1,40.167583,-8.472634,Antanhol 1
+1307,2282,Antanhol 1,40.167602,-8.472263,Antanhol 1
+1308,2281,Albergaria 3,40.168241,-8.475769,Albergaria 3
+1309,2280,Albergaria 3,40.168023,-8.475584,Albergaria 3
+1310,2279,Albergaria - centro,40.169313,-8.478069,Albergaria - centro
+1311,2278,Albergaria - centro,40.169115,-8.477742,Albergaria - centro
+1312,2277,Albergaria 1,40.171446,-8.480726,Albergaria 1
+1313,2276,Albergaria 1,40.171138,-8.480466,Albergaria 1
+1314,2275,Valongo - cruzamento,40.173745,-8.482366,Valongo - cruzamento
+1315,2274,Valongo - cruzamento,40.173462,-8.482277,Valongo - cruzamento
+1316,2273,Valongo,40.17598,-8.483639,Valongo
+1317,2297,Bela Cruz,40.185619,-8.438267,Bela Cruz
+1318,2296,Quinta da Machada,40.188029,-8.435553,Quinta da Machada
+1319,2295,Mario Pio - cruzamento,40.193352,-8.436389,Mario Pio - cruzamento
+1320,2294,Mario Pio - cruzamento,40.193526,-8.436703,Mario Pio - cruzamento
+1321,2293,Rotunda de Jericó,40.197081,-8.436294,Rotunda de Jericó
+1322,2292,Rotunda de Jericó,40.196828,-8.436661,Rotunda de Jericó
+1323,2298,Alto dos Barreiros,40.185839,-8.440971,Alto dos Barreiros
+1324,2299,Cruz dos Morouços - rotunda,40.181679,-8.448893,Cruz dos Morouços - rotunda
+1325,2313,Antanhol - cruzamento,40.165818,-8.459682,Antanhol - cruzamento
+1326,2312,Antanhol - cruzamento,40.166,-8.459766,Antanhol - cruzamento
+1327,2311,Antanhol,40.168473,-8.457613,Antanhol
+1328,2310,Antanhol,40.168321,-8.457905,Antanhol
+1335,2303,Ladeira da Paula 1,40.177475,-8.451723,Ladeira da Paula 1
+1336,2302,Ladeira da Paula 1,40.177519,-8.45226,Ladeira da Paula 1
+1337,2301,Estrada Antiga de Lisboa,40.178293,-8.450387,Estrada Antiga de Lisboa
+1338,2300,Estrada Antiga de Lisboa,40.178148,-8.450643,Estrada Antiga de Lisboa
+1339,2329,Largo do Rossio,40.107896,-8.38708,Largo do Rossio
+1340,2328,Bairro Porto das Vendas,40.107983,-8.393502,Bairro Porto das Vendas
+1341,2327,Bairro Porto das Vendas,40.107873,-8.393185,Bairro Porto das Vendas
+1342,2326,Bairro Largo,40.110586,-8.395796,Bairro Largo
+1343,2325,Bairro Largo,40.110354,-8.395963,Bairro Largo
+1344,2324,Bairro de Vale de Vilões,40.113502,-8.396166,Bairro de Vale de Vilões
+1345,2323,Bairro de Vale de Vilões,40.113111,-8.396757,Bairro de Vale de Vilões
+1346,2322,Rua do Pinhal,40.116119,-8.396502,Rua do Pinhal
+1347,2321,Rua do Pinhal,40.116008,-8.396559,Rua do Pinhal
+1348,2320,Rua Nova,40.115274,-8.400131,Rua Nova
+1349,2319,Rua Nova,40.115188,-8.399916,Rua Nova
+1350,2318,Rua do Moinho de Vento,40.128236,-8.398316,Rua do Moinho de Vento
+1351,2317,Rua do Moinho de Vento,40.128302,-8.398839,Rua do Moinho de Vento
+1352,2316,Rua do Jogo da Bola,40.130317,-8.394656,Rua do Jogo da Bola
+1353,2315,Rua do Jogo da Bola,40.130299,-8.394944,Rua do Jogo da Bola
+1354,2314,Rua da Escola Nova,40.134973,-8.395284,Rua da Escola Nova
+1355,2331,Estrada da Redonda 3,40.243426,-8.408347,Estrada da Redonda 3
+1356,2330,Universidade Vasco da Gama,40.235467,-8.414567,Universidade Vasco da Gama
+1357,2332,Alto da Rocha Nova,40.237837,-8.39042,Alto da Rocha Nova
+1358,2335,Rua da Lapa,40.235521,-8.408825,Rua da Lapa
+1359,2334,Rua do Depósito 2,40.236374,-8.40615,Rua do Depósito 2
+1360,2333,Rua do Depósito 1,40.236832,-8.404169,Rua do Depósito 1
+1362,2340,Estrada da Redonda 3,40.243554,-8.408287,Estrada da Redonda 3
+1363,2339,Estrada da Redonda 2,40.240477,-8.408637,Estrada da Redonda 2
+1364,2338,Estrada da Redonda 2,40.240722,-8.408567,Estrada da Redonda 2
+1365,2337,Estrada da Redonda 1,40.238276,-8.40867,Estrada da Redonda 1
+1366,2336,Estrada da Redonda 1,40.238468,-8.408598,Estrada da Redonda 1
+1367,2342,Outeiro da Ribeira 2,40.191227,-8.487091,Outeiro da Ribeira 2
+1368,2341,Outeiro da Ribeira 2,40.191049,-8.487228,Outeiro da Ribeira 2
+1370,2344,Rua Pedro Nunes,40.193146,-8.411768,Rua Pedro Nunes
+1371,2345,Cernache,40.140403,-8.467623,Cernache
+1372,2346,Cernache - centro,40.13873,-8.46986,Cernache - centro
+1373,2350,Barroca,40.136916,-8.482308,Barroca
+1374,2349,Ribeira de Cernache 2,40.137243,-8.476666,Ribeira de Cernache 2
+1375,2348,Ribeira de Cernache 1,40.137776,-8.473697,Ribeira de Cernache 1
+1376,2347,Igreja  Cernache,40.139431,-8.470771,Igreja  Cernache
+1377,2356,Casal de S. Bento,40.130386,-8.485904,Casal de S. Bento
+1378,2355,Rua do Pinheiro,40.132491,-8.490883,Rua do Pinheiro
+1379,2354,Vila Pouca - Oeste,40.134991,-8.491861,Vila Pouca - Oeste
+1380,2353,Vila Pouca - centro,40.135733,-8.49005,Vila Pouca - centro
+1381,2352,Rua Santa Luzia - Vila Pouca,40.13608,-8.487561,Rua Santa Luzia - Vila Pouca
+1382,2351,Vila Pouca - Escola,40.136942,-8.48601,Vila Pouca - Escola
+1383,2360,Rua Fonte da Lapa 3,40.130699,-8.472976,Rua Fonte da Lapa 3
+1384,2359,Rua Fonte da Lapa 2,40.131268,-8.474374,Rua Fonte da Lapa 2
+1385,2358,Rua Fonte da Lapa 1,40.131442,-8.47652,Rua Fonte da Lapa 1
+1386,2357,Casal de São Lourenço,40.129299,-8.483304,Casal de São Lourenço
+1387,2361,Casconha  - centro,40.131111,-8.471712,Casconha  - centro
+1388,2363,Rua do Zambujal 2,40.133922,-8.459943,Rua do Zambujal 2
+1389,2362,Rua do Zambujal 1,40.130632,-8.460139,Rua do Zambujal 1
+1390,2366,Rua 29 de Junho,40.138225,-8.455015,Rua 29 de Junho
+1391,2365,Largo da Fonte,40.137268,-8.455675,Largo da Fonte
+1392,2364,Feteira - Ponte Marvão,40.13586,-8.457979,Feteira - Ponte Marvão
+1393,2371,Loureiro 4,40.134355,-8.433726,Loureiro 4
+1394,2370,Telhadela 1,40.138462,-8.443323,Telhadela 1
+1395,2369,Telhadela - centro,40.139322,-8.445448,Telhadela - centro
+1396,2368,Telhadela 3,40.138667,-8.447346,Telhadela 3
+1397,2367,Telhadela 4,40.137883,-8.450795,Telhadela 4
+1398,2372,Vila Nova 3,40.129983,-8.457809,Vila Nova 3
+1399,2373,Orelhudo - Rot.,40.129635,-8.47968,Orelhudo - Rot.
+1401,2378,Largo da Fonte,40.126904,-8.480609,Largo da Fonte
+1402,2377,Orelhudo - centro,40.127004,-8.478176,Orelhudo - centro
+1403,2376,Ribeira de Casconha 2,40.127959,-8.473303,Ribeira de Casconha 2
+1404,2375,Ribeira de Casconha 1,40.128763,-8.470919,Ribeira de Casconha 1
+1405,2382,Rua de Alcorredores 2,40.271083,-8.438497,Rua de Alcorredores 2
+1406,2381,Rua de Alcorredores 2,40.271187,-8.438389,Rua de Alcorredores 2
+1407,2380,Rua de Alcorredores 1,40.267734,-8.440449,Rua de Alcorredores 1
+1408,2379,Rua de Alcorredores 1,40.267823,-8.440107,Rua de Alcorredores 1
+1409,2388,Ft. das Hortas,40.249922,-8.40913,Ft. das Hortas
+1410,2387,Ribeiro de Vilela,40.277212,-8.428852,Ribeiro de Vilela
+1411,2385,Rua da Ponte Pedrinha 2,40.276758,-8.43116,Rua da Ponte Pedrinha 2
+1412,2386,Rua da Ponte Pedrinha 2,40.276553,-8.43134,Rua da Ponte Pedrinha 2
+1413,2384,Rua da Ponte Pedrinha 1,40.272972,-8.434825,Rua da Ponte Pedrinha 1
+1414,2383,Rua da Ponte Pedrinha 1,40.272725,-8.434898,Rua da Ponte Pedrinha 1
+1415,2392,Rua dos Correios,40.286843,-8.424957,Rua dos Correios
+1416,2391,Rua dos Correios,40.286266,-8.424909,Rua dos Correios
+1417,2390,Rua da Adega Cooperativa,40.281275,-8.428327,Rua da Adega Cooperativa
+1418,2389,Rua da Adega Cooperativa,40.281521,-8.42816,Rua da Adega Cooperativa
+1419,2400,Rua Vale de S. Pedro 4,40.295238,-8.427154,Rua Vale de S. Pedro 4
+1420,2399,Rua Vale de S. Pedro 4,40.295438,-8.427127,Rua Vale de S. Pedro 4
+1421,2398,Rua Vale de S. Pedro 3,40.292781,-8.42606,Rua Vale de S. Pedro 3
+1422,2397,Rua Vale de S. Pedro 3,40.293088,-8.426207,Rua Vale de S. Pedro 3
+1423,2396,Rua Vale de S. Pedro 2,40.291575,-8.424465,Rua Vale de S. Pedro 2
+1424,2395,Rua Vale de S. Pedro 2,40.291678,-8.424481,Rua Vale de S. Pedro 2
+1425,2394,Rua Vale de S. Pedro 1v,40.290161,-8.423597,Rua Vale de S. Pedro 1v
+1426,2393,Rua Vale de S. Pedro 1,40.290505,-8.423645,Rua Vale de S. Pedro 1
+1427,2404,Rua João Manuel Pereira Gonçalves,40.306811,-8.426557,Rua João Manuel Pereira Gonçalves
+1428,2403,Rua João Manuel Pereira Gonçalves,40.307155,-8.426375,Rua João Manuel Pereira Gonçalves
+1429,2402,Rua Senhora da Agonia 1,40.303764,-8.426196,Rua Senhora da Agonia 1
+1430,2401,Rua Senhora da Agonia 1,40.304091,-8.426147,Rua Senhora da Agonia 1
+1431,2411,Rua do Pó,40.311132,-8.4268,Rua do Pó
+1432,2410,Marmeleira,40.313194,-8.427526,Marmeleira
+1433,2409,Rua 1ª de Maio,40.312037,-8.425835,Rua 1ª de Maio
+1434,2408,Rua José Leopoldino dos Santos,40.3105,-8.425499,Rua José Leopoldino dos Santos
+1435,2407,Rua José Leopoldino dos Santos,40.310473,-8.425452,Rua José Leopoldino dos Santos
+1436,2406,Rua 25 de Abril,40.308659,-8.425329,Rua 25 de Abril
+1437,2405,Rua 25 de Abril,40.308401,-8.42545,Rua 25 de Abril
+1438,2414,Rua das Lentieiras 2,40.298002,-8.437874,Rua das Lentieiras 2
+1439,2415,Rua das Lentieiras 2,40.297976,-8.437226,Rua das Lentieiras 2
+1440,2413,Rua das Lentieiras 1,40.298273,-8.43385,Rua das Lentieiras 1
+1441,2412,Rua das Lentieiras 1,40.29833,-8.433721,Rua das Lentieiras 1
+1442,2417,Largo N. Sr.ª da Nazaré,40.296949,-8.438011,Largo N. Sr.ª da Nazaré
+1443,2416,Largo N. Sr.ª da Nazaré,40.296728,-8.43794,Largo N. Sr.ª da Nazaré
+1444,2420,Rua Carriça dos Sargaçais,40.290431,-8.434495,Rua Carriça dos Sargaçais
+1445,2419,Rua Central da Fonte 1,40.290746,-8.435258,Rua Central da Fonte 1
+1446,2418,Rua da Ponte de S. Bento,40.29087,-8.434766,Rua da Ponte de S. Bento
+1447,2427,Sargento Mor,40.288764,-8.446994,Sargento Mor
+1448,2426,Rua Alto da Eira,40.289178,-8.444355,Rua Alto da Eira
+1449,2425,Rua Alto da Eira,40.289486,-8.444233,Rua Alto da Eira
+1450,2424,Rua da Liberdade,40.289829,-8.44025,Rua da Liberdade
+1451,2423,Rua dos Calços,40.289918,-8.440376,Rua dos Calços
+1452,2422,Rua Central da Fonte 2,40.290529,-8.437436,Rua Central da Fonte 2
+1453,2421,Rua Central da Fonte 2,40.290486,-8.437622,Rua Central da Fonte 2
+1454,2433,Rua Zeca Afonso,40.291218,-8.427987,Rua Zeca Afonso
+1455,2432,Rua Zeca Afonso,40.291347,-8.42788,Rua Zeca Afonso
+1456,2430,Rua Nova dos Sargaçais 2,40.289759,-8.428317,Rua Nova dos Sargaçais 2
+1457,2431,Rua Nova dos Sargaçais 2,40.289718,-8.428103,Rua Nova dos Sargaçais 2
+1458,2429,Rua Nova dos Sargaçais 1,40.290058,-8.431555,Rua Nova dos Sargaçais 1
+1459,2428,Rua Nova dos Sargaçais 1,40.290136,-8.430997,Rua Nova dos Sargaçais 1
+1460,2440,Interface Ponte de Eiras,40.250891,-8.441719,Interface Ponte de Eiras
+1461,2439,Rua Augusto Luiz Martha 2,40.237135,-8.438636,Rua Augusto Luiz Martha 2
+1462,2437,Rua Augusto Luiz Martha 1,40.234862,-8.440198,Rua Augusto Luiz Martha 1
+1463,2438,Rua Augusto Luiz Martha 2,40.23742,-8.438483,Rua Augusto Luiz Martha 2
+1464,2436,Rua Augusto Luiz Martha 1,40.234985,-8.439957,Rua Augusto Luiz Martha 1
+1465,2435,Rua do Pinheiro Manso,40.293748,-8.435557,Rua do Pinheiro Manso
+1466,2434,Rua do Pinheiro Manso,40.29387,-8.435742,Rua do Pinheiro Manso
+1467,2445,Largo das Almas,40.301995,-8.401098,Largo das Almas
+1468,2444,Cruzamento do Outeiro do Botão,40.304609,-8.406572,Cruzamento do Outeiro do Botão
+1469,2443,Cruzamento do Outeiro do Botão,40.304816,-8.406484,Cruzamento do Outeiro do Botão
+1470,2442,Rua dos Troviscais,40.293421,-8.420113,Rua dos Troviscais
+1471,2441,Rua dos Troviscais,40.293699,-8.419737,Rua dos Troviscais
+1472,2449,Rua Frei Francisco de Macedorua Frei Francisco de Macedo,40.306419,-8.401013,Rua Frei Francisco de Macedorua Frei Francisco de Macedo
+1473,2448,Rua Frei Francisco de Macedo,40.306367,-8.40151,Rua Frei Francisco de Macedo
+1474,2447,Botão  Cemitério,40.307052,-8.405443,Botão  Cemitério
+1475,2446,Botão Cemitério,40.306884,-8.404955,Botão Cemitério
+1476,2454,Rua do Lagar 3,40.305826,-8.393642,Rua do Lagar 3
+1477,2455,Rua do Lagar 3,40.305789,-8.393808,Rua do Lagar 3
+1478,2453,Rua do Lagar 2,40.305372,-8.395804,Rua do Lagar 2
+1479,2452,Rua do Lagar 2,40.305482,-8.396196,Rua do Lagar 2
+1480,2451,Rua do Lagar 1,40.306664,-8.398315,Rua do Lagar 1
+1481,2450,Rua do Lagar 1,40.306623,-8.398328,Rua do Lagar 1
+1482,2461,Rua dos Fontenários 2,40.322239,-8.396701,Rua dos Fontenários 2
+1483,2460,Rua dos Fontenários 2,40.322382,-8.396645,Rua dos Fontenários 2
+1484,2459,Rua dos Fontenários 1,40.319589,-8.396464,Rua dos Fontenários 1
+1485,2458,Rua dos Fontenários 1,40.319789,-8.396282,Rua dos Fontenários 1
+1486,2457,Rua da Laranjeira,40.316263,-8.398862,Rua da Laranjeira
+1487,2456,Rua da Laranjeira,40.316231,-8.398793,Rua da Laranjeira
+1488,2465,Rua da Liberdade 2,40.325074,-8.374819,Rua da Liberdade 2
+1489,2464,Rua da Liberdade 1,40.325864,-8.377714,Rua da Liberdade 1
+1490,2463,Rua da Liberdade 1,40.325878,-8.377848,Rua da Liberdade 1
+1491,2462,Rua da Escola,40.319871,-8.395926,Rua da Escola
+1492,2471,Rua das Hortas,40.3305,-8.396001,Rua das Hortas
+1493,2470,Rua das Hortas,40.330496,-8.395932,Rua das Hortas
+1494,2469,Rua Dr. Mário Matos 2,40.328159,-8.39627,Rua Dr. Mário Matos 2
+1495,2467,Rua Dr. Mário Matos 1,40.325684,-8.396768,Rua Dr. Mário Matos 1
+1496,2468,Rua Dr. Mário Matos 2,40.32838,-8.396128,Rua Dr. Mário Matos 2
+1497,2466,Rua Dr. Mário Matos 1,40.32595,-8.396698,Rua Dr. Mário Matos 1
+1498,2481,Rua do Mato do Poço 2,40.349247,-8.401214,Rua do Mato do Poço 2
+1499,2480,Rua do Mato do Poço 1,40.347772,-8.394622,Rua do Mato do Poço 1
+1500,2479,Paúl,40.347051,-8.392091,Paúl
+1501,2478,Rua do Lagar 2,40.345306,-8.40263,Rua do Lagar 2
+1502,2477,Rua do Lagar 1,40.34437,-8.401257,Rua do Lagar 1
+1503,2476,Rua do Lagar 1,40.344165,-8.400624,Rua do Lagar 1
+1504,2475,Rua do Chafariz,40.342424,-8.397813,Rua do Chafariz
+1505,2474,Rua do Chafariz,40.342375,-8.397636,Rua do Chafariz
+1506,2473,Rua Nova do Lameiro,40.333856,-8.397545,Rua Nova do Lameiro
+1507,2472,Rua Nova do Lameiro,40.333849,-8.397495,Rua Nova do Lameiro
+1508,2486,Rua 25 de Abril 3,40.258895,-8.404664,Rua 25 de Abril 3
+1509,2485,Rua 25 de Abril 3,40.258785,-8.404528,Rua 25 de Abril 3
+1510,2484,Rua 25 de Abril 2,40.256375,-8.404867,Rua 25 de Abril 2
+1511,2483,Rua 25 de Abril 2,40.256448,-8.404758,Rua 25 de Abril 2
+1512,2482,Alto do Balancho,40.254272,-8.405365,Alto do Balancho
+1513,2493,Ruas das Acácias 2,40.261325,-8.403019,Ruas das Acácias 2
+1514,2492,Ruas das Acácias 1,40.262979,-8.402992,Ruas das Acácias 1
+1515,2491,Rua 5 de Outubro 3,40.267367,-8.401865,Rua 5 de Outubro 3
+1516,2490,Rua 5 de Outubro 3,40.26768,-8.401831,Rua 5 de Outubro 3
+1517,2489,Rua 5 de Outubro 2,40.265317,-8.402318,Rua 5 de Outubro 2
+1518,2488,Rua 5 de Outubro 2,40.265514,-8.402176,Rua 5 de Outubro 2
+1519,2487,Rua 5 de Outubro 1,40.263315,-8.40248,Rua 5 de Outubro 1
+1520,2498,Brasfemes,40.272983,-8.398929,Brasfemes
+1521,2497,Rua Miguel Torga,40.270939,-8.401092,Rua Miguel Torga
+1522,2496,Rua 25 de Abril,40.270876,-8.400775,Rua 25 de Abril
+1523,2495,Rua Dr. Fausto de Quadros,40.268825,-8.402344,Rua Dr. Fausto de Quadros
+1524,2494,Rua Antonino dos Santos,40.269191,-8.401695,Rua Antonino dos Santos
+1525,2500,Rua da Cerâmica Ceres,40.26528,-8.438404,Rua da Cerâmica Ceres
+1526,2499,Rua do Campo de Futebol,40.266933,-8.43418,Rua do Campo de Futebol
+1527,2172,Arco da Traição,40.206828,-8.424008,Arco da Traição
+1530,2503,Rua Quinta da Zombaria,40.26953,-8.465068,Rua Quinta da Zombaria
+1531,2502,Rua Quinta da Zombaria,40.269852,-8.465121,Rua Quinta da Zombaria
+1532,2505,Couraça de Lisboa,40.206571,-8.425739,Couraça de Lisboa
+1534,9002,Universidade - Polo I,40.207941,-8.424293,Universidade - Polo I
+1535,9003,Eco H.u.c.,40.218316,-8.41387,Eco H.u.c.
+1536,2512,Cruzamento Mata do Maxial,40.2792,-8.37867,Cruzamento Mata do Maxial
+1537,2511,Rua 25 de Abril,40.273592,-8.382117,Rua 25 de Abril
+1538,2510,Rua 25 de Abril,40.273449,-8.382852,Rua 25 de Abril
+1539,2509,Rua das Tileiras,40.275736,-8.396928,Rua das Tileiras
+1540,2508,Rua das Tileiras,40.275306,-8.396984,Rua das Tileiras
+1541,2507,Pedrulha X,40.241769,-8.441914,Pedrulha X
+1542,2506,Rua José Antunes Vaz Serra 1,40.249119,-8.410053,Rua José Antunes Vaz Serra 1
+1543,2513,Brasfemes,40.273047,-8.398999,Brasfemes
+1544,2530,Casal Novo 2,40.137363,-8.376774,Casal Novo 2
+1545,2529,Casal Novo 2,40.137186,-8.376459,Casal Novo 2
+1546,2528,Portela do Casal Novo 1,40.13936,-8.37692,Portela do Casal Novo 1
+1547,2527,Portela do Casal Novo 1,40.13944,-8.377004,Portela do Casal Novo 1
+1548,2526,Portela do Casal Novo 2,40.142359,-8.376666,Portela do Casal Novo 2
+1549,2525,Portela do Casal Novo 2,40.14206,-8.376707,Portela do Casal Novo 2
+1550,2524,Portela do Casal Novo 3,40.143124,-8.378203,Portela do Casal Novo 3
+1551,2523,Portela do Casal Novo 3,40.143183,-8.37805,Portela do Casal Novo 3
+1552,2522,Braçais,40.14591,-8.380224,Braçais
+1553,2521,Braçais,40.145796,-8.380351,Braçais
+1554,2520,Abelheira 1,40.153463,-8.382702,Abelheira 1
+1555,2519,Abelheira 1,40.15334,-8.382739,Abelheira 1
+1556,2518,Abelheira 2,40.157242,-8.382189,Abelheira 2
+1557,2517,Abelheira 2,40.157178,-8.382273,Abelheira 2
+1558,2516,Abelheira 3,40.159618,-8.38411,Abelheira 3
+1559,2515,Abelheira 3,40.159441,-8.384099,Abelheira 3
+1560,2514,Cruzamento Abelheira,40.16015,-8.385539,Cruzamento Abelheira
+1561,2531,Casal Novo 1,40.136945,-8.373272,Casal Novo 1
+1562,2535,Serra da Rocha 3,40.233839,-8.377291,Serra da Rocha 3
+1563,2534,Serra da Rocha 3,40.234162,-8.377476,Serra da Rocha 3
+1564,2533,Serra da Rocha 1,40.236268,-8.380199,Serra da Rocha 1
+1565,2532,Serra da Rocha 1,40.236206,-8.379766,Serra da Rocha 1
+1566,2537,Rua do Moinho de Vento,40.127015,-8.401406,Rua do Moinho de Vento
+1567,2536,Rua do Moinho de Vento,40.126879,-8.401565,Rua do Moinho de Vento
+1568,2541,Caminho da Raposa,40.191677,-8.447256,Caminho da Raposa
+1569,2540,Rua do Girassol,40.190952,-8.445696,Rua do Girassol
+1570,2539,Rua Alto dos Barreiros,40.18953,-8.443744,Rua Alto dos Barreiros
+1571,2538,Rua Nossa Senhora das Victórias,40.188221,-8.4418,Rua Nossa Senhora das Victórias
+1572,2543,Rua Senhora da Agonia 2,40.305381,-8.426418,Rua Senhora da Agonia 2
+1573,2542,Rua Senhora da Agonia 2,40.305684,-8.426452,Rua Senhora da Agonia 2
+1574,2545,Manuel A. Sousa,40.22782,-8.439005,Manuel A. Sousa
+1575,2544,Manuel A. Sousa,40.228137,-8.438642,Manuel A. Sousa
+1576,2546,Estação Velha,40.222017,-8.439498,Estação Velha
+1582,2547,Arnado,40.212934,-8.431584,Arnado
+1583,9015,Rua Infanta Dona Maria,40.206271,-8.404893,Rua Infanta Dona Maria
+1584,9017,Rua da Alegria,40.204557,-8.425198,Rua da Alegria
+1585,9016,Rua da Alegria,40.204496,-8.425077,Rua da Alegria
+1586,2548,Largo do Arnado,40.214304,-8.434306,Largo do Arnado
+1587,2549,Mendes Silva  2 (valongo),40.17852,-8.476436,Mendes Silva  2 (valongo)
+1588,2550,Mendes Silva 2,40.17846,-8.476572,Mendes Silva 2
+1589,9018,Praça da República,40.209392,-8.420193,Praça da República
+1590,9019,Cruzamento rua da Chapeleira,40.169368,-8.456773,Cruzamento rua da Chapeleira
+1591,9020,Celas,40.213088,-8.414215,Celas
+1592,9021,Eiras,40.249606,-8.416786,Eiras
+1593,9022,Bairro de Santa Apolónia,40.253523,-8.435067,Bairro de Santa Apolónia

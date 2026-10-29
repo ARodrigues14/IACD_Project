@@ -1,0 +1,43 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: smtuc-processor
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: smtuc-processor
+  template:
+    metadata:
+      labels:
+        app: smtuc-processor
+    spec:
+      restartPolicy: Always
+      containers:
+      - name: processor
+        image: smtuc-spark:v1
+        imagePullPolicy: Never
+        command: ["/bin/sh", "-c"]
+        args:
+          - |
+            # Download drivers
+            wget -q -O /opt/spark/jars/postgresql-42.7.1.jar https://jdbc.postgresql.org/download/postgresql-42.7.1.jar
+            
+            # Run Spark STREAMING (processa Kafka em tempo real)
+            /opt/spark/bin/spark-submit \
+              --master local[*] \
+              --driver-memory 1g \
+              --conf spark.sql.shuffle.partitions=4 \
+              --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.0 \
+              --jars /opt/spark/jars/postgresql-42.7.1.jar \
+              /opt/spark/work-dir/src/processor/main.py
+        resources:
+          limits:
+            memory: "2Gi"
+            cpu: "2"
+          requests:
+            memory: "1Gi"
+            cpu: "1"
+          requests:
+            memory: "1Gi"
+            cpu: "1"

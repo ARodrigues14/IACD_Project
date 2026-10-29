@@ -1,0 +1,16 @@
+# Kafka
+kafka-python==2.0.2
+
+# Spark (já incluído na imagem base)
+# pyspark
+
+# Database
+psycopg2-binary==2.9.9
+
+# Visualization
+folium==0.18.0
+pandas
+
+# Utils
+numpy
+

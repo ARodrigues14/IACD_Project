@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: producer
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: producer
+  template:
+    metadata:
+      labels:
+        app: producer
+    spec:
+      enableServiceLinks: false
+      containers:
+      - name: producer
+        image: smtuc-spark:v1
+        imagePullPolicy: Never
+        command: ["python3", "/opt/spark/work-dir/src/producer/producer.py"]

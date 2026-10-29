@@ -1,0 +1,63 @@
+version: '3.8'
+
+services:
+  # --- ZOOKEEPER (O Gestor) ---
+  zookeeper:
+    image: wurstmeister/zookeeper:latest
+    container_name: zookeeper
+    ports:
+      - "2181:2181"
+
+  # --- KAFKA (O Carteiro) ---
+  kafka:
+    image: wurstmeister/kafka:latest
+    container_name: kafka
+    ports:
+      - "9092:9092"   # Porta para o teu PC (Producer)
+      - "29092:29092" # Porta para o Spark (Consumer)
+    depends_on:
+      - zookeeper
+    environment:
+      KAFKA_ADVERTISED_LISTENERS: INSIDE://kafka:29092,OUTSIDE://localhost:9092
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: INSIDE:PLAINTEXT,OUTSIDE:PLAINTEXT
+      KAFKA_LISTENERS: INSIDE://0.0.0.0:29092,OUTSIDE://0.0.0.0:9092
+      KAFKA_INTER_BROKER_LISTENER_NAME: INSIDE
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_CREATE_TOPICS: "smtuc_demand:1:1" # Cria logo o tópico para não dar erro depois
+
+  # --- SPARK (O Cérebro) ---
+  spark-master:
+    image: apache/spark:latest
+    container_name: spark-master
+    hostname: spark-master
+    user: root
+    ports:
+      - "8080:8080"
+      - "7077:7077"
+    environment:
+      - SPARK_MODE=master
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+      - SPARK_SSL_ENABLED=no
+    volumes:
+      - ./src:/opt/spark/work-dir/src
+      - ./data:/opt/spark/work-dir/data
+    command: /opt/spark/bin/spark-class org.apache.spark.deploy.master.Master
+
+  spark-worker:
+    image: apache/spark:latest
+    container_name: spark-worker
+    hostname: spark-worker
+    user: root
+    depends_on:
+      - spark-master
+    environment:
+      - SPARK_MODE=worker
+      - SPARK_MASTER_URL=spark://spark-master:7077
+      - SPARK_WORKER_CORES=2
+      - SPARK_WORKER_MEMORY=1G
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+      - SPARK_SSL_ENABLED=no
+    volumes:
+      - ./src:/opt/spark/work-dir/src
+      - ./data:/opt/spark/work-dir/data
+    command: /opt/spark/bin/spark-class org.apache.spark.deploy.worker.Worker spark://spark-master:7077
